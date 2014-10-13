@@ -1,0 +1,5 @@
+pdflatex IronLine
+bibtex IronLine
+pdflatex IronLine
+pdflatex IronLine
+/data/cjm96/TeXcount_2_3/texcount.pl -merge IronLine.tex

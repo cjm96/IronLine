@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99c (Web2C 7.5.6)
+The top-level auxiliary file: IronLine.aux
+The style file: apsrev.bst
+Database file #1: IronLineNotes.bib
+Warning--entry type for "Note1" isn't style-file defined
+--line 1 of file IronLineNotes.bib
+Database file #2: bibliography.bib
+Repeated entry---line 350 of file bibliography.bib
+ : @article{2011PhRvD..83j4027V
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 369 of file bibliography.bib
+ : @article{2011PhRvD..84f4016G
+ :                             ,
+I'm skipping whatever remains of this entry
+Reallocated wiz_functions (elt_size=4) to 6000 items from 244813138872.
+Warning--missing institution in Acernese2009
+You've used 47 entries,
+            3411 wiz_defined-function locations,
+            1500 strings with 22043 characters,
+and the built_in function-call counts, 31648 in all, are:
+= -- 1753
+> -- 1103
+< -- 165
++ -- 910
+- -- 272
+* -- 4390
+:= -- 3440
+add.period$ -- 47
+call.type$ -- 47
+change.case$ -- 189
+chr.to.int$ -- 45
+cite$ -- 48
+duplicate$ -- 2943
+empty$ -- 2674
+format.name$ -- 681
+if$ -- 5889
+int.to.chr$ -- 3
+int.to.str$ -- 48
+missing$ -- 455
+newline$ -- 156
+num.names$ -- 138
+pop$ -- 734
+preamble$ -- 1
+purify$ -- 188
+quote$ -- 0
+skip$ -- 1162
+stack$ -- 0
+substring$ -- 778
+swap$ -- 2351
+text.length$ -- 137
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 278
+warning$ -- 1
+while$ -- 116
+width$ -- 0
+write$ -- 506
+(There were 2 error messages)

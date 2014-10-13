@@ -1,0 +1,721 @@
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2013.2.25)  13 OCT 2014 15:07
+entering extended mode
+ %&-line parsing enabled.
+**IronLine
+(./IronLine.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, arabic, basque, bulgarian, coptic, welsh, czech, slovak, german, ng
+erman, danish, esperanto, spanish, catalan, galician, estonian, farsi, finnish,
+ french, greek, monogreek, ancientgreek, croatian, hungarian, interlingua, ibyc
+us, indonesian, icelandic, italian, latin, mongolian, dutch, norsk, polish, por
+tuguese, pinyin, romanian, russian, slovenian, uppersorbian, serbian, swedish, 
+turkish, ukenglish, ukrainian, loaded.
+(/home/cjm96/texmf/tex/latex/revtex/revtex4-1.cls
+Document Class: revtex4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revt
+ex4/ for documentation)
+ Copyright (c) 2009 The American Physical Society.
+ mailto:revtex@aps.org
+ Licensed under the LPPL:
+http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt
+ Arthur Ogawa <arthur_ogawa at sbcglobal dot net>
+ Based on work by David Carlisle <david at dcarlisle.demon.co.uk>.
+ltxutil[2010/07/25/20:33:00 4.1r utilities package (portions licensed from W. E
+. Baxter web at superscript.com)]
+LaTeX Info: Redefining \@centercr on input line 308.
+Class revtex4-1 Info: Repairing broken LaTeX eqnarray on input line 358.
+\eqncolsep=\skip41
+Class revtex4-1 Info: Repairing hyperref-unfriendly LaTeX definition of \mpfoot
+note on input line 433.
+Class revtex4-1 Info: Repairing broken LateX \@sect on input line 755.
+\intertabularlinepenalty=\count79
+\@tbpen=\count80
+\@arstrutbox@hline=\box26
+Class revtex4-1 Info: Repairing broken LaTeX \@xbitor on input line 1786.
+Class revtex4-1 Info: Making \typeout \long on input line 2046.
+ltxfront[2010/07/25/20:33:00 4.1r frontmatter package (AO,DPC)]
+\c@affil=\count81
+\c@collab=\count82
+\absbox=\box27
+ltxgrid[2010/07/25/20:33:00 4.1r page grid package (portions licensed from W. E
+. Baxter web at superscript.com)]
+\c@linecount=\count83
+\output@latex=\toks14
+\box@size@1=\box28
+\box@size@2=\box29
+\@protection@box=\box30
+\@topmark@saved=\toks15
+\footins@saved=\box31
+\footins@recovered=\box32
+\column@recovered=\box33
+\pagesofar=\box34
+\footsofar=\box35
+\pagegrid@col=\count84
+Class revtex4-1 Info: Overriding \@vspace, \@vspacer, \@no@pgbk, \@newline, and
+ \\  on input line 5578.
+\c@part=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@subparagraph=\count90
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count91
+\fbox@1=\box36
+\c@table=\count92
+\fbox@2=\box37
+\c@video=\count93
+\fbox@4=\box38
+\@bibdataout=\write3
+\widetext@top=\box39
+\widetext@bot=\box40
+Class revtex4-1 Info: Selecting society aps on input line 7542.
+(/home/cjm96/texmf/tex/latex/revtex/aps4-1.rtx
+File: aps4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for docu
+mentation)
+Class revtex4-1 Info: RevTeX society APS selected on input line 31.
+)
+
+Class revtex4-1 Warning: No journal specified, using default pra.
+
+Class revtex4-1 Info: APS journal PRA selected on input line 7545.
+
+Class revtex4-1 Warning: No type size specified, using default 10.
+
+(/home/cjm96/texmf/tex/latex/revtex/aps10pt4-1.rtx
+File: aps10pt4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for 
+documentation)
+Class revtex4-1 Info: RevTeX pointsize 10pt selected on input line 30.
+)
+(/usr/share/texmf/tex/latex/textcase/textcase.sty
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+)
+(/home/cjm96/texmf/tex/latex/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/home/cjm96/texmf/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip44
+\bibsep=\skip45
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count94
+)
+Class revtex4-1 Info: Repairing natbib's \BibitemShut on input line 7549.
+
+(/home/cjm96/texmf/tex/latex/revtex/revsymb4-1.sty
+Package: revsymb4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ f
+or documentation)
+LaTeX Info: Redefining \REV@mathfrak on input line 119.
+))
+(/usr/share/texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texmf/tex/latex/graphics/graphics.sty
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 90.
+
+(/usr/share/texmf/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2007/01/08 v0.04d Graphics/color for pdfTeX
+\Gread@gobject=\count95
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+(/usr/share/texmf/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/share/texmf/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+(/usr/share/texmf/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen104
+)
+(/usr/share/texmf/tex/latex/ltxmisc/tabls.sty
+\tablinesep=\dimen105
+\arraylinesep=\dimen106
+\extrarulesep=\dimen107
+\@arstdepth=\dimen108
+\@arstheight=\dimen109
+\@skip@bove=\dimen110
+)
+(/usr/share/texmf/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen111
+\epsfysize=\dimen112
+)
+(/usr/share/texmf/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip46
+\subfigcapskip=\skip47
+\subfigcaptopadj=\dimen113
+\subfigbottomskip=\skip48
+\subfigcapmargin=\dimen114
+\subfiglabelskip=\skip49
+\c@subfigure=\count96
+\c@lofdepth=\count97
+\c@subtable=\count98
+\c@lotdepth=\count99
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texmf/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip50
+\subfig@bottom=\skip51
+)
+(/usr/share/texmf/tex/latex/comment/comment.sty
+\CommentStream=\write4
+ Excluding comment 'comment')
+(/usr/share/texmf/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2007/02/07 v6.75r Hypertext links for LaTeX
+\@linkdim=\dimen115
+\Hy@linkcounter=\count100
+\Hy@pagecounter=\count101
+
+(/usr/share/texmf/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2007/02/07 v6.75r Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texmf/tex/latex/config/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+(/usr/share/texmf/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2006/08/22 v2.4 Connects package keyval with LaTeX options (
+HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 2288.
+Package hyperref Info: Link nesting OFF on input line 2293.
+Package hyperref Info: Hyper index ON on input line 2296.
+Package hyperref Info: Plain pages OFF on input line 2303.
+Package hyperref Info: Backreferencing OFF on input line 2308.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 2444.
+LaTeX Info: Redefining \href on input line 2586.
+LaTeX Info: Redefining \url on input line 2599.
+\Fld@menulength=\count102
+\Field@Width=\dimen116
+\Fld@charsize=\dimen117
+\Choice@toks=\toks17
+\Field@toks=\toks18
+Package hyperref Info: Hyper figures OFF on input line 3102.
+Package hyperref Info: Link nesting OFF on input line 3107.
+Package hyperref Info: Hyper index ON on input line 3110.
+Package hyperref Info: backreferencing OFF on input line 3117.
+Package hyperref Info: Link coloring OFF on input line 3122.
+\Hy@abspage=\count103
+\c@Item=\count104
+\c@Hfootnote=\count105
+)
+*hyperref using default driver hpdftex*
+(/usr/share/texmf/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2007/02/07 v6.75r Hyperref driver for pdfTeX
+\Fld@listcount=\count106
+)
+(/usr/share/texmf/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count107
+\float@exts=\toks19
+\float@box=\box41
+\@float@everytoks=\toks20
+\@floatcapt=\box42
+)
+(/usr/share/texmf/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/share/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Package option `usenames' ignored on input line 216.
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+
+(/usr/share/texmf/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+(/usr/share/texmf/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2002/01/22 v2.2d
+
+(/usr/share/texmf/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2001/10/25 v2.2f
+\@emptytoks=\toks21
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 132.
+LaTeX Info: Redefining \frak on input line 135.
+LaTeX Info: Redefining \Bbb on input line 137.
+))
+(/usr/share/texmf/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks22
+\ex@=\dimen118
+)
+LaTeX Info: Redefining \text on input line 53.
+)
+(/usr/share/texmf/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen119
+)
+(/usr/share/texmf/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count108
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count109
+\leftroot@=\count110
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count111
+\DOTSCASE@=\count112
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box43
+\strutbox@=\box44
+\big@size=\dimen120
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count113
+\c@MaxMatrixCols=\count114
+\dotsspace@=\muskip11
+\c@parentequation=\count115
+\dspbrk@lvl=\count116
+\tag@help=\toks23
+\row@=\count117
+\column@=\count118
+\maxfields@=\count119
+\andhelp@=\toks24
+\eqnshift@=\dimen121
+\alignsep@=\dimen122
+\tagshift@=\dimen123
+\tagwidth@=\dimen124
+\totwidth@=\dimen125
+\lineht@=\dimen126
+\@envbody=\toks25
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf/tex/latex/tools/bm.sty
+Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup7
+\symboldletters=\mathgroup8
+\symboldsymbols=\mathgroup9
+\symboldlasy=\mathgroup10
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 137.
+LaTeX Info: Redefining \bm on input line 203.
+)
+(/usr/share/texmf/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup11
+)
+Class revtex4-1 Info: Unrecognized LaTeX tabular. Please update this document c
+lass! (Proceeding with fingers crossed.) on input line 36.
+Class revtex4-1 Info: Repairing hyperref 6.75r \href on input line 36.
+
+
+Class revtex4-1 Warning: Repair the float package.
+
+Class revtex4-1 Info: Robustifying \LaTeX's \boldmath command on input line 36.
+
+Class revtex4-1 Info: cite was not loaded (OK!) on input line 36.
+Class revtex4-1 Info: mcite was not loaded (OK!) on input line 36.
+Class revtex4-1 Info: multicol was not loaded (OK!) on input line 36.
+(./IronLine.aux)
+\openout1 = `IronLine.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+Package hyperref Info: Link coloring OFF on input line 36.
+ (/usr/share/texmf/tex/latex/hyperref/nameref.sty
+Package: nameref 2006/12/27 v2.28 Cross-referencing by name of section
+
+(/usr/share/texmf/tex/latex/oberdiek/refcount.sty
+Package: refcount 2006/02/20 v3.0 Data extraction from references (HO)
+)
+\c@section@level=\count120
+)
+LaTeX Info: Redefining \ref on input line 36.
+LaTeX Info: Redefining \pageref on input line 36.
+ (./IronLine.out)
+(./IronLine.out)
+\@outlinefile=\write5
+\openout5 = `IronLine.out'.
+
+Class revtex4-1 Info: Taking \maketitle back from hyperref on input line 36.
+\openout3 = `IronLineNotes.bib'.
+
+LaTeX Font Info:    Try loading font information for U+lasy on input line 53.
+ (/usr/share/texmf/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 53.
+
+(/usr/share/texmf/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 53.
+
+(/usr/share/texmf/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <9> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 53.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 53.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 53.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 53.
+
+(/usr/share/texmf/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `\\' on input line 58.
+
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 58.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 58.
+
+Class revtex4-1 Warning: If you want your keywords to appear in your output, us
+e document class option showkeys.
+
+(./intro.tex [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
+(./metrics.tex [2] [3]) (./disks.tex [4]
+<KerrLines.pdf, id=283, 687.56876pt x 437.37802pt>
+File: KerrLines.pdf Graphic file (type pdf)
+ <use KerrLines.pdf> [5]
+Overfull \hbox (1.32222pt too wide) detected at line 76
+\OML/cmm/m/it/10 F[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 E[]\OT1/cmr/m/n/10 ) = []
+ [][] [][] \OML/cmm/m/it/10 r[]r[]^^^ g[]^^O\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 r
+; ^^V\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ^^N []  :
+ []
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 82.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 82.
+
+
+Underfull \hbox (badness 5667) in paragraph at lines 81--83
+\OT1/cmr/m/n/10 hole the nu-mer-a-tor of Eq. []32[] is sim-ply given
+ []
+
+
+Underfull \hbox (badness 5431) in paragraph at lines 81--83
+\OT1/cmr/m/n/10 by $[]$. Us-ing the or-bital four-
+ []
+
+[6pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \endgroup \set@typeset@protect 
+l.85 \begin{equation}
+                      \alpha = -\frac{r p^{\phi}}{p^{t}} \Big|_{r\rightarrow...
+ <./KerrLines.pdf>] <KerrFlux.pdf, id=354, 331.2375pt x 185.69376pt>
+File: KerrFlux.pdf Graphic file (type pdf)
+
+<use KerrFlux.pdf> <KerrTherm.pdf, id=362, 670.505pt x 341.01802pt>
+File: KerrTherm.pdf Graphic file (type pdf)
+
+<use KerrTherm.pdf> [7pdfTeX warning (ext4): destination with the same identifi
+er (name{figure.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \endgroup \set@typeset@protect 
+l.122 
+       <./KerrFlux.pdf>]
+<LightBendingDisk.png, id=421, 1633.10126pt x 894.34125pt>
+File: LightBendingDisk.png Graphic file (type png)
+
+<use LightBendingDisk.png> [8pdfTeX warning (ext4): destination with the same i
+dentifier (name{figure.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \endgroup \set@typeset@protect 
+l.138 
+       <./KerrTherm.pdf>]) (./results.tex
+<FishMCMC.png, id=464, 2088.80376pt x 990.70125pt>
+File: FishMCMC.png Graphic file (type png)
+ <use FishMCMC.png> [9pdfTeX warning (ext4): destination with the same identifi
+er (name{figure.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \endgroup \set@typeset@protect 
+l.16 
+      <./LightBendingDisk.png (PNG copy)>]
+Overfull \hbox (9.22124pt too wide) in alignment at lines 26--28
+ [][][] []
+ []
+
+[10pdfTeX warning (ext4): destination with the same identifier (name{figure.5})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \endgroup \set@typeset@protect 
+l.32 
+      <./FishMCMC.png (PNG copy)>]
+<KerrFisherMatrixErrors2.pdf, id=493, 1111.15125pt x 794.94592pt>
+File: KerrFisherMatrixErrors2.pdf Graphic file (type pdf)
+
+<use KerrFisherMatrixErrors2.pdf>
+Overfull \hbox (3.98218pt too wide) in paragraph at lines 57--66
+ []$ 
+ []
+
+[11pdfTeX warning (ext4): destination with the same identifier (name{table.1}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \endgroup \set@typeset@protect 
+l.74 
+     ]
+
+pdfTeX warning: pdflatex (file ./CS2IronLines.pdf): PDF inclusion: found PDF ve
+rsion <1.5>, but at most version <1.4> allowed
+<CS2IronLines.pdf, id=510, 649.42625pt x 214.8025pt>
+File: CS2IronLines.pdf Graphic file (type pdf)
+ <use CS2IronLines.pdf>
+
+pdfTeX warning: pdflatex (file ./KSIronLines.pdf): PDF inclusion: found PDF ver
+sion <1.5>, but at most version <1.4> allowed
+<KSIronLines.pdf, id=515, 347.2975pt x 214.8025pt>
+File: KSIronLines.pdf Graphic file (type pdf)
+ <use KSIronLines.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[12pdfTeX warning (ext4): destination with the same identifier (name{figure.6})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \endgroup \set@typeset@protect 
+l.100 
+       <./KerrFisherMatrixErrors2.pdf>]
+
+pdfTeX warning: pdflatex (file ./KSFisherPlot.pdf): PDF inclusion: found PDF ve
+rsion <1.5>, but at most version <1.4> allowed
+<KSFisherPlot.pdf, id=544, 900.36375pt x 858.20625pt>
+File: KSFisherPlot.pdf Graphic file (type pdf)
+ <use KSFisherPlot.pdf>
+[13pdfTeX warning (ext4): destination with the same identifier (name{figure.7})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \endgroup \set@typeset@protect 
+l.132 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+8}) has been already used, duplicate ignored
+<to be read again> 
+                   \endgroup \set@typeset@protect 
+l.132 
+      pdfTeX warning (ext4): destination with the same identifier (name{table.2
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \endgroup \set@typeset@protect 
+l.132 
+       <./CS2IronLines.pdf
+
+pdfTeX warning: pdflatex (file ./CS2IronLines.pdf): PDF inclusion: Page Group d
+etected which pdfTeX can't handle. Ignoring it.
+> <./KSIronLines.pdf
+
+pdfTeX warning: pdflatex (file ./KSIronLines.pdf): PDF inclusion: Page Group de
+tected which pdfTeX can't handle. Ignoring it.
+>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 151.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `subscript' on input line 151.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 151.
+
+
+
+pdfTeX warning: pdflatex (file ./B2IronLines.pdf): PDF inclusion: found PDF ver
+sion <1.5>, but at most version <1.4> allowed
+<B2IronLines.pdf, id=632, 719.68875pt x 431.6125pt>
+File: B2IronLines.pdf Graphic file (type pdf)
+ <use B2IronLines.pdf>
+[14pdfTeX warning (ext4): destination with the same identifier (name{figure.9})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \endgroup \set@typeset@protect 
+l.161 
+       <./KSFisherPlot.pdf
+
+pdfTeX warning: pdflatex (file ./KSFisherPlot.pdf): PDF inclusion: Page Group d
+etected which pdfTeX can't handle. Ignoring it.
+>]
+
+pdfTeX warning: pdflatex (file ./fig_summary.pdf): PDF inclusion: found PDF ver
+sion <1.5>, but at most version <1.4> allowed
+<fig_summary.pdf, id=662, 641.39626pt x 347.2975pt>
+File: fig_summary.pdf Graphic file (type pdf)
+ <use fig_summary.pdf>)
+[15pdfTeX warning (ext4): destination with the same identifier (name{figure.10}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \endgroup \set@typeset@protect 
+l.71 
+     pdfTeX warning (ext4): destination with the same identifier (name{table.3}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \endgroup \set@typeset@protect 
+l.71 
+      <./B2IronLines.pdf
+
+pdfTeX warning: pdflatex (file ./B2IronLines.pdf): PDF inclusion: Page Group de
+tected which pdfTeX can't handle. Ignoring it.
+>] [16pdfTeX warning (ext4): destination with the same identifier (name{table.4
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \endgroup \set@typeset@protect 
+l.75 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.1
+1}) has been already used, duplicate ignored
+<to be read again> 
+                   \endgroup \set@typeset@protect 
+l.75 
+      <./fig_summary.pdf
+
+pdfTeX warning: pdflatex (file ./fig_summary.pdf): PDF inclusion: Page Group de
+tected which pdfTeX can't handle. Ignoring it.
+>] (./appendices.tex
+Overfull \hbox (6.38889pt too wide) in alignment at lines 5--13
+ [][][] []
+ []
+
+
+Overfull \hbox (9.42038pt too wide) in alignment at lines 36--44
+ [][][] []
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 100--102
+\OT1/cmr/m/n/10 This is in-te-grated over the space-time vol-ume
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--102
+[] [] []
+ []
+
+[18]) [19] (./IronLine.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 38--40
+ []\OT1/cmr/m/n/9 Note1, []$\OT1/cmtt/m/n/9 http : / / www . nobelprize . org /
+ nobel _ prizes /
+ []
+
+
+Underfull \hbox (badness 6961) in paragraph at lines 85--90
+ []\OT1/cmr/m/n/9 C. Brans and R. H. Dicke, Phys. Rev. \OT1/cmr/bx/n/9 124\OT1/
+cmr/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--103
+ []\OT1/cmr/m/n/9 F. Ac-er-nese et al. (The Virgo Col-lab-o-ra-tion),
+ []
+
+
+Underfull \hbox (badness 1082) in paragraph at lines 98--103
+ \OT1/cmr/m/n/9 Virgo Tech-ni-cal Re-port VIR-0027A-09 (2009), URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--103
+ []$\OT1/cmtt/m/n/9 http : / / tds . ego-[]gw . it / itf / tds / file . php ? c
+allFile =
+ []
+
+) [20] (./IronLine.aux) ) 
+Here is how much of TeX's memory you used:
+ 6779 strings out of 256216
+ 91032 string characters out of 1917072
+ 202725 words of memory out of 1500000
+ 9727 multiletter control sequences out of 10000+200000
+ 18723 words of font info for 76 fonts, out of 1200000 for 2000
+ 645 hyphenation exceptions out of 8191
+ 33i,14n,35p,2023b,405s stack positions out of 5000i,500n,6000p,200000b,15000s
+</usr/share/texmf/fonts/type1/bluesky/cm/cmbx10.pfb></
+usr/share/texmf/fonts/type1/bluesky/cm/cmbx12.pfb></usr/share/texmf/fonts/type1
+/bluesky/cm/cmbx9.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmex10.pfb></usr
+/share/texmf/fonts/type1/bluesky/cm/cmmi10.pfb></usr/share/texmf/fonts/type1/bl
+uesky/cm/cmmi5.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi6.pfb></usr/sha
+re/texmf/fonts/type1/bluesky/cm/cmmi7.pfb></usr/share/texmf/fonts/type1/bluesky
+/cm/cmmi9.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr10.pfb></usr/share/te
+xmf/fonts/type1/bluesky/cm/cmr5.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cm
+r6.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr7.pfb></usr/share/texmf/font
+s/type1/bluesky/cm/cmr8.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr9.pfb><
+/usr/share/texmf/fonts/type1/bluesky/cm/cmsy10.pfb></usr/share/texmf/fonts/type
+1/bluesky/cm/cmsy5.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy6.pfb></usr
+/share/texmf/fonts/type1/bluesky/cm/cmsy7.pfb></usr/share/texmf/fonts/type1/blu
+esky/cm/cmsy9.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmti10.pfb></usr/sha
+re/texmf/fonts/type1/bluesky/cm/cmti9.pfb></usr/share/texmf/fonts/type1/bluesky
+/cm/cmtt9.pfb></usr/share/texmf/fonts/type1/bluesky/ams/msam10.pfb></usr/share/
+texmf/fonts/type1/urw/helvetic/uhvb8a.pfb>
+Output written on IronLine.pdf (20 pages, 1993545 bytes).
+PDF statistics:
+ 927 PDF objects out of 1000 (max. 8388607)
+ 179 named destinations out of 1000 (max. 131072)
+ 288 words of extra memory for PDF output out of 10000 (max. 10000000)
+

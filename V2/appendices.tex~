@@ -1,0 +1,154 @@
+\appendix
+\section{Metric components}\label{app:a}
+\subsection{BN}\label{subsec:BNcomponents}
+For the bumpy ${\cal{B}}_{N}$ metrics discussed in Sec.\ \ref{sec:spacetimes} all of the metric coefficients up to ${\cal{O}}(1/r^{5})$ are reproduced here.
+\begin{eqnarray}
+&h_{tt,2}=&\gamma_{1,2}+2\gamma_{4,2}-2a\gamma_{3,1}\sin^{2}\theta \label{eq:bigEqstart}\nonumber\\
+&h_{tt,3}=&\gamma_{1,3}-8\gamma_{4,2}-2\gamma_{1,2}+2\gamma_{4,3}+8a\gamma_{3,1}\sin^{2}\theta \nonumber\\
+&h_{tt,4}= & -8\gamma_{4,3}-2\gamma_{1,3}+2\gamma_{4,4}+8\gamma_{4,2}+\gamma_{1,4}-8a\gamma_{3,1}\sin^{2}\theta  \nonumber\\
+         & & +a^{2}\left(\gamma_{1,2}+2\gamma_{4,2}\right)\sin^{2}\theta+2a^{3}\gamma_{3,1}\cos^{2}\theta \sin^{2}\theta \nonumber\\
+&h_{tt,5}= & 16a^{3}\gamma_{3,1}\sin^{4}\theta + \sin^{2}\theta \left[ 4a\gamma_{3,3}+a^{2}\left(\gamma_{1,3}-2\gamma_{1,2}  \right.\right. \nonumber \\
+&&\left.\left.-12\gamma_{4,2}+2\gamma_{4,3}\right)-12a^{3}\gamma_{3,1} \right] +a^{2}\left(8\gamma_{4,2}+2\gamma_{1,2}\right) \nonumber\\
+&  &  + \gamma_{1,5} +2\gamma_{4,5}-2\gamma_{1,4}+8\gamma_{4,3}-8\gamma_{4,4} 
+\end{eqnarray}
+\begin{eqnarray}
+&h_{t\phi,2}=&-M\sin^{2}\theta\left[ \gamma_{3,3}+a\left(\gamma_{1,2}+\gamma_{4,2} \right) +a^{2}\gamma_{3,1} \right] \nonumber\\
+&h_{t\phi,3}=&-8Ma^{2}\gamma_{3,1}\sin^{4}\theta \nonumber\\
+&&+M\sin^{2}\theta\left[ \left(2\gamma_{3,3}-\gamma_{3,4} \right)+a\left(6\gamma_{4,2}-\gamma_{4,3} \right.\right.\nonumber\\
+&&\left.\left.+2\gamma_{1,2}-\gamma_{1,3} \right)+2\gamma_{3,1}a^{2} \right] \nonumber\\
+&h_{t\phi,4}= & M\sin^{4}\theta\left[a^{2}\left(8\gamma_{3,1}-\gamma_{3,3} \right)+a^{3}\left(-\gamma_{1,3}-\gamma_{4,2} \right)\right.\nonumber \\
+&&\left.-a^{4}\gamma_{3,1} \right] + \sin^{2}\theta \left[  \left( 2\gamma_{3,4}-\gamma_{3,5} \right)+a\left(-\gamma_{4,4}\right.\right.\nonumber\\
+&&\left.\left.-8\gamma_{4,2}+6\gamma_{4,3}-\gamma_{1,4}+2\gamma_{1,3} \right)  -a^{2}\gamma_{3,3}  \right] \nonumber\\
+&h_{t\phi,5}= & -16Ma^{4}\gamma_{3,1}\sin^{6}\theta\nonumber\\
+&&+M\sin^{4}\theta\left[ a^{2}\left(-2\gamma_{3,3}-\gamma_{3,4}\right)\right.\nonumber\\
+&&\left.+a^{3}\left(\gamma_{4,3}+10\gamma_{4,2}+2\gamma_{1,2}-\gamma_{1,3}\right) +14a^{4}\gamma_{3,1} \right] \nonumber\\
+& &  +\sin^{2}\theta\left[ \left(2\gamma_{3,5}-\gamma_{3,6}\right)\right.\nonumber\\
+&&\left.+a\left(-\gamma_{1,5}-8\gamma_{4,3}-\gamma_{4,5}+2\gamma_{1,4}+6\gamma_{4,4}\right) \right. \nonumber\\
+& & \left. -\gamma_{3,4}a^{2}+a^{3}\left(-2\gamma_{1,2}-6\gamma_{4,2}\right)-2a^{4}\gamma_{3,1} \right]
+\end{eqnarray}
+\begin{eqnarray}
+&h_{rr,2}=&-\gamma_{1,2}\nonumber\\
+&h_{rr,3}=&-\gamma_{1,3}-2\gamma_{1,2}, \nonumber\\
+&h_{rr,4}=&-\gamma_{1,4}-2\gamma_{1,3}-4\gamma_{1,2}+(1/2)\gamma_{1,2}a^{2}\left(1-\cos 2\theta \right) \nonumber\\
+&h_{rr,5}=&a^{2}\sin^{2}\theta\left(\gamma_{1,3}+2\gamma_{1,2} \right)\nonumber\\
+&&-\gamma_{1,5}-2\gamma_{1,4}-4\gamma_{1,3}-8\gamma_{1,2}+2a^{2}\gamma_{1,2} 
+\end{eqnarray}
+\begin{eqnarray}
+&h_{\phi\phi,-2}=&0\nonumber\\
+&h_{\phi\phi,-1}=&0\nonumber\\ 
+&h_{\phi\phi,0}=&2M^{2}a\gamma_{3,1}\sin^{4}\theta\nonumber\\
+&h_{\phi\phi,1}=&0 \nonumber\\
+&h_{\phi\phi,2}=&M^{2}\sin^{4}\theta\left[ 2a\gamma_{3,3}+a^{2}\gamma_{1,2}+a^{3}\gamma_{3,1}\left( 4-2\cos^{2}\theta \right) \right] \nonumber\\
+&h_{\phi\phi,3}= & 8M^{2}a^{3}\gamma_{3,1}\sin^{6}\theta + M^{2}\sin^{4}\theta\left[ a\left(-4\gamma_{3,3}+2\gamma_{3,4} \right)\right.\nonumber\\
+&&\left.+a^{2}\left( -2\gamma_{1,2} -4\gamma_{4,2}+\gamma_{1,3} \right)-4a^{3}\gamma_{3,1} \right] \label{eq:bigEqend}
+\end{eqnarray}
+
+\subsection{CS2}\label{subsec:CS2components}
+For the CS2 metric discussed in Sec.\ \ref{subsec:CS2} the metric perturbations are reproduced here.
+\begin{eqnarray}
+\delta\left(g_{tt}^\CSt \right) &=& \zeta a^2 \frac{1^3}{r^3} \Bigg[  \frac{201}{1792} \left( 1+\frac{1}{r} +\frac{4474}{4221} \frac{1^2}{r^2} \right.\nonumber\\
+&&\left.-\frac{2060}{469} \frac{1^3}{r^3}+\frac{1500}{469} \frac{1^4}{r^4} - \frac{2140}{201} \frac{1^5}{r^5}  \right.\nonumber \\
+&&\left.+ \frac{9256}{201} \frac{1^6}{r^6}- \frac{5376}{67} \frac{1^7}{r^7}  \right) (3\cos^2 \theta -1)  \nonumber \\
+&&- \frac{5}{384} \frac{1^2}{r^2} \left( 1 + 100 \frac{1}{r} \right.\nonumber\\
+&&\left.+ 194\frac{1^2}{r^2} + \frac{2220}{7} \frac{1^3}{r^3} - \frac{1512}{5} \frac{1^4}{r^4} \right) \Bigg]    \,, 
+\\
+\delta\left(g_{t\phi}^\CSt \right) &=& \frac{5}{4}\zeta\chi\frac{1}{r^{4}}\left(1+\frac{12}{7r^{2}}+\frac{27}{10r^{2}}\right)
+\\
+\delta\left(g_{rr}^\CSt \right) &=&   \zeta a^2 \frac{1^3}{r^3 f(r)^2} \Bigg[  \frac{201}{1792}  f(r) \left( 1+ \frac{1459}{603} \frac{1}{r} \right.\nonumber\\
+&&\left. +\frac{20000}{4221} \frac{1^2}{r^2}+\frac{51580}{1407} \frac{1^3}{r^3} -\frac{7580}{201} \frac{1^4}{r^4} \right. \nonumber \\ 
+& & \left. - \frac{22492}{201} \frac{1^5}{r^5}  - \frac{40320}{67} \frac{1^6}{r^6} \right) (3 \cos^2 \theta -1)   \nonumber \\
+& & - \frac{25}{384} \frac{1}{r} \left( 1 + 3\frac{1}{r} + \frac{322}{5} \frac{1^2}{r^2} + \frac{198}{5} \frac{1^3}{r^3} \right.\nonumber\\
+&&\left.+ \frac{6276}{175} \frac{1^4}{r^4} - \frac{17496}{25} \frac{1^5}{r^5}   \right) \Bigg]  \,,
+\\
+\delta\left(g_{\theta\theta}^\CSt \right) &=& \frac{201}{1792} \zeta a^2 1^2 \frac{1}{r} \left( 1 + \frac{1420}{603} \frac{1}{r} + \frac{18908}{4221} \frac{1^2}{r^2} \right. \nonumber \\
+& & \left. + \frac{1480}{603} \frac{1^3}{r^3}+ \frac{22460}{1407} \frac{1^4}{r^4} \right.\nonumber\\
+&&\left.+ \frac{3848}{201} \frac{1^5}{r^5} + \frac{5376}{67} \frac{1^6}{r^6} \right) (3 \cos^2 \theta -1)
+\\
+\delta\left(g_{\phi\phi}^\CSt \right) &=&  \sin^2 \theta g_{\theta\theta}^\CSt \; .
+\end{eqnarray}
+
+\clearpage
+
+\section{Radial dependence of the flux}\label{app:b}
+\cite{1974ApJ...191..499P} derive various expressions for the radial structure of the disk, including an expression for the radial dependence of the flux (Eq.\ \ref{eq:radialfluxmain} in the main text). Here the derivation is summarised for completeness.
+
+The thin disk is assumed to be axisymmetric, stationary, and lying in the equatorial place; therefore all quantities in the disk depend only on the radial coordinate. It is assumed that the material in the disk moves (very nearly) on circular geodesics. The four-velocity of individual fluid elements, $u^{\mu} _{0}$, when mass averaged over the disk structure must therefore be the four-velocity of the geodesic orbit $u^{\mu}$ in Eq.\ \ref{eq:four:vel}.
+\begin{equation}\label{eq:diskvelocity} u^{\mu} = \frac{1}{\Sigma(r)}\int_{-h}^{+h}\textrm{d}z\; \rho_{0} u^{\mu} _{0}  \, ,\;
+\textrm{where} \;  \Sigma (r) = \int_{-h}^{+h}\textrm{d}z\;  \rho _{0} \, . \end{equation}
+Where $\rho_{0}$ mass density in the rest frame of the orbiting material. Without loss of generality the stress-energy tensor may be decomposed by writing
+\begin{equation}\label{eq:stresstensor} T^{\mu \nu} = \rho_{0}\left( 1+\Pi \right)u^{\mu}u^{\nu} + t^{\mu\nu} + 2u^{(\mu}q^{\nu )} \end{equation}
+where the physical interpretation of each term becomes clear in the rest frame of the orbiting material; $\Pi$ is the specific internal energy, $t^{\mu\nu}$ is the stress tensor in the averaged rest frame of the material and $q^{\mu}$ is the energy flow vector. The round brackets in the superscript of Eq.\ \ref{eq:stresstensor} denote symmeterisation with respect to the enclosed indices. The tensors $t^{\mu\nu}$ and $q^{\mu}$ obey the orthogonality relations $u_{\mu}q^{\mu}=0$ and $u_{\mu}t^{\mu\nu}=u_{\nu}t^{\mu\nu}=0$. By analogy with $\Sigma(r)$ in Eq.\ \ref{eq:diskvelocity} the average stresses in the disk are defined as
+\begin{equation} W_{\mu}^{\; \nu} = \int_{-h}^{+h}\textrm{d}z\; t_{\mu}^{\; \nu}  \; . \end{equation}
+
+It is also assumed that heat flow within the disk is negligible except for in the vertical direction, which is reasonable as the disk is thin. The non-local heating effects due to light emitted by one portion of the disk being re-absorbed by another portion are also neglected.
+\begin{equation}\label{eq:heatflow} q^{t}=q^{r}=q^{\phi}= 0\;,\quad \textrm{at}\quad z=\pm h.\end{equation}
+Since the only time-averaged stress that reaches out of the disk to infinity is carried by photons (neglecting gravitational radiation and any coherent superposition of long wavelength radiation), and using Eq.\ \ref{eq:heatflow}, on the upper and lower edges of the disk the following terms of the stress-tensor disappear;
+\begin{eqnarray}\label{eq:tcomp} &t_{\phi}^{\; z}= t_{r}^{\; z}= t_{t}^{\; z} =0 \nonumber \\
+&\textrm{and}\; \left| q^{z} \right|=F(r)\,,\;\textrm{at}\; z=\pm h \,.\end{eqnarray}
+
+Since we are assuming the particles in the disk are, very nearly, on circular, geodesic orbits it follows that the acceleration due to pressure gradients in the disk must be much less than the acceleration due to gravity otherwise the material would be pushed off it's geodesic trajectory. Using the approximate relation $t_{rr}\approx\rho_{0}\Pi$ (which is valid for any astrophysically reasonable matter \cite{1974ApJ...191..499P}) leads directly to the condition of negligible specific heat;
+\begin{eqnarray}
+&\textrm{radial pressure acceleration} \approx \left| \partial_{r}t_{rr}/\rho_{0} \right| \approx \left| \partial_{r}\left( t_{rr}/\rho_{0}\right)  \right| \nonumber\\
+&\textrm{gravitational acceleration} \approx | \partial_{r}\tilde{E} | \approx | \partial_{r}( 1-\tilde{E} ) | \nonumber\\
+& | \partial_{r} (t_{rr}/\rho_{0} ) | \ll | \partial_{r}( 1-\tilde{E} ) |\quad \Rightarrow \quad \Pi \ll 1-\tilde{E}\; .
+\end{eqnarray}
+If the internal energy is small compared to the gravitational potential energy, this means that as the material spirals in towards the black hole all of the gravitational potential energy is radiated away.
+
+%With these simplifying assumptions in place the three conservation laws are now applied, conservation of rest mass, angular momentum and energy. Firstly, conservation of rest mass implies that CITE,
+
+With these simplifying assumptions in place the equations governing the structure of the disk follow from the conservation of stress-energy ($\nabla_{\mu}T^{\mu\nu}=0$), and the conservation of rest mass of the fluid \citep{MTW},
+\begin{equation} \nabla_{\mu} \left( \rho_{0}u^{\mu} \right)=0  \; .\end{equation}
+This is integrated over the spacetime volume $\left\{{\cal{V}}: t\in\left(t_{0},t_{0}+T\right), \right.\allowbreak\left. r\in\left(r,r+\Delta r\right), \right.\allowbreak\left. \phi\in\left(0,2\pi\right), \right.\allowbreak\left. z\in\left(-h,+h\right)\right\}$. Gauss's theorem is then used to convert the volume integral into a surface integral over the boundary $\partial{\cal{V}}$ with area element $\left|d^{3}A\right|$.
+\begin{eqnarray} &0=\int_{\partial{\cal{V}}}\rho_{0}u^{\mu}n_{\mu}\left|d^{3}A\right| \\
+& 0= \left[\int^{r+\Delta r}_{r}\int^{2\pi}_{0}\int^{+h}_{-h}\textrm{d}r\textrm{d}\phi\textrm{d}z\; \sqrt{-{\bf{g}}} \rho_{0}u^{t}  \right]^{t=t_{0}+T}_{t=t_{0}} \nonumber\\
+&\quad\;+\left[ \int^{t+T}_{t}\int^{2\pi}_{0}\int^{+h}_{-h}\textrm{d}t\textrm{d}\phi\textrm{d}z\;  \sqrt{-{\bf{g}}}\rho_{0}u^{r}  \right]^{r'=r+\Delta r}_{r'=r} \nonumber \\
+&\quad\; +\left[\int^{t_{0}+T}_{t}\int^{r+\Delta r}_{r}\int^{+h}_{-h}\textrm{d}t\textrm{d}r\textrm{d}z\; \sqrt{-{\bf{g}}}\rho_{0}u^{\phi}  \right]^{\phi=2\pi}_{\phi=0}\nonumber \\
+&\quad\; +\left[\int^{t_{0}+T}_{t_{0}}\int^{r+\Delta r}_{r}\int^{2\pi}_{0}\textrm{d}t\textrm{d}r\textrm{d}\phi\; \sqrt{-{\bf{g}}}\rho_{0}u^{z} \right]^{z=+h}_{z=-h} \label{eq:massconservation}
+\end{eqnarray}
+
+The first and third terms in the above expression are zero by the assumed stationarity and axisymmetry of the system. The final term is also zero because there is no motion in the vertical direction, $u^{z}=0$. Therefore Eq.\ \ref{eq:massconservation} simplifies to
+\begin{eqnarray}
+&0=2\pi T\Delta r \left( \sqrt{-{\bf{g}}}\Sigma(r) u^{r}\right)_{,r} \nonumber\\
+& \Rightarrow \dot{M}_{0}=-2\pi\sqrt{-{\bf{g}}} \Sigma(r) u^{r}=\textrm{constant} \, ,
+\end{eqnarray}
+where $\dot{M}_{0}$ is the accretion rate. 
+
+The second conservation law is that of angular momentum. Again the differential form of the conservation law is integrated over the volume ${\cal{V}}$ and Gauss's law used to turn this into a surface integral over $\partial{\cal{V}}$.
+\begin{eqnarray}
+&0=&\nabla_{\mu}J^{\mu}\quad \textrm{where} \quad J^{\mu}=T^{\mu\nu}\left(\frac{\partial}{\partial\phi}\right)_{\nu}\nonumber\\
+&0=&\int_{\partial{\cal{V}}}J^{\mu}n_{\mu} \left|d^{3}A\right|\nonumber \\
+\end{eqnarray}
+
+\begin{widetext}
+\begin{eqnarray}\label{eq:angmomconserv}
+&0=&\left[\int^{t_{0}+T}_{t_{0}}\int^{2\pi}_{0}\int^{+h}_{-h}\textrm{d}t\textrm{d}\phi\textrm{d}z\; \left[\rho_{0}(1+\Pi)u_{\phi}u^{r} + t_{\phi}^{\;r} +u_{\phi}q^{r} + q_{\phi}u^{r} \right] \sqrt{-{\bf{g}}} \right]^{r'=r+\Delta r}_{r'=r}\nonumber\\
+&&\quad\quad +\left[\int_{t_{0}}^{t_{0}+\Delta t}\int_{r}^{r+\Delta r}\int_{0}^{2\pi}\textrm{d}t\textrm{d}r\textrm{d}\phi\; \left[ \rho_{0}(1+\Pi)u_{\phi}u^{z} + t_{\phi}^{\;z}+u_{\phi}q^{z}+q_{\phi}u^{z} \right] \sqrt{-{\bf{g}}}  \right]^{z=+h}_{z=-h} 
+\end{eqnarray}\end{widetext}
+The $\phi$ index has been lowered and the $t$ and $\phi$ integral terms have been set to zero due the assumed stationarity and axisymmetry of the system. Using the negligible internal energy condition derived above, Eqs.\ \ref{eq:heatflow} and \ref{eq:tcomp}, and the fact that $u^{z}=0$ this becomes
+\begin{eqnarray}  
+&0=&\left[2\pi T\int_{-h}^{+h}\textrm{d}z\; \left[\rho_{0}u_{\phi}u^{r} + t_{\phi}^{\;r}\right] \sqrt{-{\bf{g}}} \right]^{r'=r+\Delta r}_{r'=r}\nonumber\\
+&&+\left[2\pi T \int_{r}^{r+\Delta r}\textrm{d}r\; u_{\phi}q^{z} \sqrt{-{\bf{g}}}  \right]^{z=+h}_{z=-h} \\
+&\Rightarrow&4\pi\sqrt{-{\bf{g}}}F(r)\tilde{L}=\left[\dot{M}_{0}\tilde{L}-2\pi \sqrt{-{\bf{g}}}W_{\phi}^{\; r}\right]_{,r} \; .\label{eq:diff1}
+\end{eqnarray}
+An extra factor of two has appeared on the left-hand side of Eq.\ \ref{eq:diff1} from the fact that a flux $F(r)$ is radiated from both sides of the disk.
+
+The third and final conservation law is that of conservation of energy. By performing the same type of manipulations to this equation as was done for Eq.\ \ref{eq:angmomconserv} we obtain,
+\begin{eqnarray} & 0=\nabla_{\mu}E^{\mu}\quad\textrm{where}\quad E^{\mu}=-T^{\mu\nu}\left(\frac{\partial}{\partial t}\right)_{\nu}\; , \\
+&\left[ \dot{M}_{0}\tilde{E}+2\pi \sqrt{-{\bf{g}}}W_{t}^{\; r} \right]_{,r} = 4\pi \sqrt{-{\bf{g}}}F(r)\tilde{E} \; .\end{eqnarray}
+Making use of the orthogonality $u^{\mu}t_{\mu}^{\; \nu}=0$ which implies that $u^{\mu}W_{\mu}^{\;\nu}=0\;\Rightarrow\; W_{t}^{\;r}+\Omega W_{\phi}^{\;r}=0$, this equation may be rewritten in terms of $W_{\phi}^{\; r}$ as was the case with the angular momentum equation.
+\begin{equation}\label{eq:diff2} \left[ \dot{M}_{0}\tilde{E}-2\pi \sqrt{-{\bf{g}}}W_{\phi}^{\; r}\Omega \right]_{,r} = 4\pi \sqrt{-{\bf{g}}}F(r)\tilde{E} \end{equation}
+
+From Eqs.\ \ref{eq:En}, \ref{eq:Lz} and \ref{eq:omega} it can be seen that the energy, angular momentum and angular velocity satisfy the following energy angular momentum relation,
+\begin{equation}\label{eq:ELOmega} \tilde{E}_{,r}=\Omega \tilde{L}_{,r} \; .\end{equation}
+
+Eqs.\ \ref{eq:diff1} and \ref{eq:diff2} may now be integrated to find the radial dependence of the flux. This is done by multiplying Eq.\ \ref{eq:diff1} by $\Omega$ and subtracting the result from Eq.\ \ref{eq:diff2} to obtain an expression for the torque;
+\begin{equation} W_{\phi}^{\; r} = 2 F(r) \frac{\Omega \tilde{L}-\tilde{E}}{\Omega _{,r}}\, . \end{equation}
+Substituting this back into Eq.\ \ref{eq:diff1} and rearranging and using the energy angular momentum relation in Eq.\ \ref{eq:ELOmega} gives a differential equation for $F(r)$,
+\begin{equation} \left[ 4\pi \sqrt{-{\bf{g}}}\frac{\left(\tilde{E}-\Omega\tilde{L}\right)^{2}}{\Omega_{,r}} F(r) \right]_{,r} = \dot{M}_{0}\left(\tilde{E}-\Omega\tilde{L}\right)\tilde{L}_{,r}\, , \end{equation}
+which may be readily integrated. To fix the constant of integration we use the zero torque boundary condition at the inner edge of the disk, $F(r_{\textrm{isco}})=0$. Therefore we have an expression for the radial flux from the disk,
+\begin{equation}\label{eq:radialflux} F(r)=\frac{-\dot{M}_{0}\Omega_{,r}}{4\pi \sqrt{-{\bf{g}}}\left( \tilde{E}-\Omega \tilde{L} \right)^{2}} \int_{r_{\textrm{isco}}}^{r}\left(\tilde{E}-\Omega \tilde{L}\right) L_{,r} \textrm{d}r \, .\end{equation}
+
+For completeness we also present the final radial structure expression derived in \cite{1974ApJ...191..499P}, the expression for the torque per unit circumference as a function of radius, $W_{\phi}^{r}$,
+\begin{eqnarray} &W_{\phi}^{r}&=\frac{-\dot{M}_{0}\Omega_{,r}}{2\pi \sqrt{-{\bf{g}}}\left( \tilde{E}-\Omega \tilde{L} \right)^{2}} \frac{\tilde{E}-\Omega \tilde{L}}{-\Omega_{,r}}\nonumber \\
+&&\quad\times\int_{r_{\textrm{isco}}}^{r}\left(\tilde{E}-\Omega \tilde{L}\right) L_{,r} \textrm{d}r  \, .\end{eqnarray}
+

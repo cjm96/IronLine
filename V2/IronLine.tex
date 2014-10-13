@@ -1,0 +1,83 @@
+\documentclass[aps,twocolumn,floatfix,superscriptaddress,longbibliography]{revtex4-1}
+%\documentclass[aps,twocolumn,floatfix,superscriptaddress]{revtex4-1}
+
+\bibliographystyle{apsrev}
+
+\usepackage{graphicx}
+%\usepackage{biblatex} % to clear certain bibtex entires
+\usepackage{indentfirst}
+\usepackage{latexsym}
+\usepackage{multirow}
+\usepackage{tabls}
+\usepackage{epsfig}
+\usepackage{multirow}
+\usepackage{subfigure}
+\usepackage{comment}
+\usepackage{hyperref}
+\usepackage{float}
+\usepackage{color}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{bm}
+\usepackage{mathrsfs}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% 	definition of a solar mass symbol for use in equations.      %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\Msun}{\ensuremath{M_{ \odot }}}
+\newcommand{\degree}{\ensuremath{^\circ}}
+\mathchardef\mhyphen="2D
+\newcommand{\CSt}{{\mbox{\tiny CS2}}}
+\newcommand{\cjm}[1]{{\color{red} #1}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\title{Testing the ``no-hair'' property of black holes with\\X-ray observations of accretion disks}
+
+\def\addCambridge{Institute of Astronomy, Madingley Road, Cambridge, CB30HA, United Kingdom}
+
+\author{Christopher J. Moore}
+\email{cjm96@ast.cam.ac.uk}
+\affiliation{\addCambridge} 
+
+\author{Jonathan R. Gair}
+\email{jrg23@ast.cam.ac.uk} 
+\affiliation{\addCambridge}
+
+\date\today
+
+\begin{abstract}
+Accretion disks around black holes radiate a significant fraction of the rest mass of the accreting material in the form of thermal radiation from within a few gravitational radii of the black hole ($ r \lesssim 20 G M / c^{2}$). In addition, the accreting matter may also be illuminated by hard X-rays from the surrounding plasma which adds fluorescent transition lines to the emission. The light from the inner parts of the disk is emitted by matter moving along geodesics in the metric; therefore the strong Doppler and gravitational redshifts observed in the emission encode information about the strong field metric around the black hole. Here the possibility of using the X-ray emissions as a strong field test of General Relativity is explored by calculating the spectra for both the transition line and thermal emission from a thin accretion disk in a series parametrically deformed Kerr metrics. In addition the possibility of constraining a number of known black hole spacetimes in alternative theories of gravity is also considered.
+\end{abstract}
+
+\keywords{Black holes}
+
+\maketitle
+
+\input{intro}
+\input{metrics}
+\input{disks}
+\input{results}
+
+\section{Discussion}\label{sec:discussion}
+Observations of accretion disks offer the most promissing opportunity to probe strong gravitational fields. Such observations have already provided some of the best evidence for the existence of black holes (in particular the existance of an event horizon, and a separate innermost stable circular orbit) and are routinely used to measure the spin of black holes. In this paper we have considered the possibility of using X-ray emission from a thin accretion disk to distinguish between the Kerr black hole predicted by GR and alternative black hole metrics. For this purpose a series of parametrically deformed Kerr metrics, referred to as bumpy black holes, expanded in powers of $M/r$ were used \cite{2011PhRvD..83j4027V,2011PhRvD..84f4016G}. In this paper both the transition line and the thermal emission around these general bumpy black hole was calculated. The Fisher matrix formalism was used for the Iron line emission to estimate the accuracy to which the various disk parameters could be measured. 
+
+In addition to this general family of bumpy black holes the disk emission in several specific, known black hole spacetimes were also considered. In particular the Iron line emission in the metric CS2 due to \cite{2012PhRvD..86d4037Y} was considered for the first time in the literature. For the CS2 metric it was found that it is impossible to place constraints on the small, dimensionless coupling parameter less than unity.
+
+The technique of using accretion disk observations to constrain alternative black hole solutions has limitations. Qualitatively, the method works well for measuring the spin of a Kerr black holes, but adding extra deformation parameters typically introduces degeneracies which make constraining the bump parameters very difficult. This is seen very clearly in Fig.\ \ref{fig:KSFish} in the case of the KS metric. For the BN metrics it was found that bounds less than unity were only possible in a limited number of cases, typically for the leading order deformations around highly spinning black holes. It should also be remembered that the bounds presented here are optimistic, ``best case'' scenarios for the reasons discussed in Sec.\ \ref{sec:analysis}.
+
+In the near future it will become possible to perform this sort of test of GR using gravitational wave observations of the inspiral and coalescence of a binary containing neutron stars or black holes. In particular, the possibility of using eLISA observations of extreme mass ratio inspirals to constrain the CS1 metric was recently considered in \cite{2012PhRvD..86d4010C}. It was found that bounds on the dimensionless deformation parameter $\epsilon<10^{-6}$ may be possible, several orders of magnitude better than the bounds estimated here. As the CS1 metric is a special case of the general ${\cal{B}}_{N}$ metrics considered here, it would be interesting to try to constrain the ${\cal{B}}_{N}$ metrics here using the same techniques and see if similar improvements are possible.
+
+\clearpage
+
+\input{appendices}
+
+\clearpage
+
+\bibliography{bibliography}
+
+\end{document}
+

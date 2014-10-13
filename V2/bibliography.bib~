@@ -1,0 +1,798 @@
+@ARTICLE{Vallisneri,
+   author = {{Vallisneri}, M.},
+    title = "{Use and abuse of the Fisher information matrix in the assessment of gravitational-wave parameter-estimation prospects}",
+  journal = {\prd},
+   eprint = {gr-qc/0703086},
+ keywords = {Gravitational wave detectors and experiments, Inference methods, Gravitational radiation detectors, mass spectrometers, and other instrumentation and techniques},
+     year = 2008,
+    month = feb,
+   volume = 77,
+   number = 4,
+      eid = {042001},
+    pages = {042001},
+      doi = {10.1103/PhysRevD.77.042001},
+   adsurl = {http://adsabs.harvard.edu/abs/2008PhRvD..77d2001V},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2012PhRvD..86d4037Y,
+   author = {{Yagi}, K. and {Yunes}, N. and {Tanaka}, T.},
+    title = "{Slowly rotating black holes in dynamical Chern-Simons gravity: Deformation quadratic in the spin}",
+  journal = {\prd},
+archivePrefix = "arXiv",
+   eprint = {1206.6130},
+ primaryClass = "gr-qc",
+ keywords = {Classical black holes, Wave generation and sources},
+     year = 2012,
+    month = aug,
+   volume = 86,
+   number = 4,
+      eid = {044037},
+    pages = {044037},
+      doi = {10.1103/PhysRevD.86.044037},
+   adsurl = {http://adsabs.harvard.edu/abs/2012PhRvD..86d4037Y},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2009PhRvD..79h4043Y,
+   author = {{Yunes}, N. and {Pretorius}, F.},
+    title = "{Dynamical Chern-Simons modified gravity: Spinning black holes in the slow-rotation approximation}",
+  journal = {\prd},
+archivePrefix = "arXiv",
+   eprint = {0902.4669},
+ primaryClass = "gr-qc",
+ keywords = {Modified theories of gravity, Approximation methods, equations of motion, Higher-dimensional black holes black strings and related objects, Black holes},
+     year = 2009,
+    month = apr,
+   volume = 79,
+   number = 8,
+      eid = {084043},
+    pages = {084043},
+      doi = {10.1103/PhysRevD.79.084043},
+   adsurl = {http://adsabs.harvard.edu/abs/2009PhRvD..79h4043Y},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2011PhRvD..83j4027V,
+   author = {{Vigeland}, S. and {Yunes}, N. and {Stein}, L.~C.},
+    title = "{Bumpy black holes in alternative theories of gravity}",
+  journal = {\prd},
+archivePrefix = "arXiv",
+   eprint = {1102.3706},
+ primaryClass = "gr-qc",
+ keywords = {Gravitational waves: theory, Modified theories of gravity, Physics of black holes},
+     year = 2011,
+    month = may,
+   volume = 83,
+   number = 10,
+      eid = {104027},
+    pages = {104027},
+      doi = {10.1103/PhysRevD.83.104027},
+   adsurl = {http://adsabs.harvard.edu/abs/2011PhRvD..83j4027V},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2011PhRvD..84f4016G,
+   author = {{Gair}, J. and {Yunes}, N.},
+    title = "{Approximate waveforms for extreme-mass-ratio inspirals in modified gravity spacetimes}",
+  journal = {\prd},
+archivePrefix = "arXiv",
+   eprint = {1106.6313},
+ primaryClass = "gr-qc",
+ keywords = {Gravitational waves: theory, Modified theories of gravity, Approximation methods, equations of motion, Post-Newtonian approximation, perturbation theory, related approximations},
+     year = 2011,
+    month = sep,
+   volume = 84,
+   number = 6,
+      eid = {064016},
+    pages = {064016},
+      doi = {10.1103/PhysRevD.84.064016},
+   adsurl = {http://adsabs.harvard.edu/abs/2011PhRvD..84f4016G},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2009PhLB..678..123K,
+   author = {{Kehagias}, A. and {Sfetsos}, K.},
+    title = "{The black hole and FRW geometries of non-relativistic gravity}",
+  journal = {Physics Letters B},
+archivePrefix = "arXiv",
+   eprint = {0905.0477},
+ primaryClass = "hep-th",
+     year = 2009,
+    month = jul,
+   volume = 678,
+    pages = {123-126},
+      doi = {10.1016/j.physletb.2009.06.019},
+   adsurl = {http://adsabs.harvard.edu/abs/2009PhLB..678..123K},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2010EPJC...70..367L,
+   author = {{Lee}, H.~W. and {Kim}, Y.-W. and {Myung}, Y.~S.},
+    title = "{Slowly rotating black holes in the Ho{\v r}ava-Lifshitz gravity}",
+  journal = {European Physical Journal C},
+archivePrefix = "arXiv",
+   eprint = {1008.2243},
+ primaryClass = "hep-th",
+     year = 2010,
+    month = nov,
+   volume = 70,
+    pages = {367-371},
+      doi = {10.1140/epjc/s10052-010-1463-7},
+   adsurl = {http://adsabs.harvard.edu/abs/2010EPJC...70..367L},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2009PhRvL.102p1301H,
+   author = {{Ho{\v r}ava}, P.},
+    title = "{Spectral Dimension of the Universe in Quantum Gravity at a Lifshitz Point}",
+  journal = {Physical Review Letters},
+archivePrefix = "arXiv",
+   eprint = {0902.3657},
+ primaryClass = "hep-th",
+ keywords = {Lattice and discrete methods},
+     year = 2009,
+    month = apr,
+   volume = 102,
+   number = 16,
+      eid = {161301},
+    pages = {161301},
+      doi = {10.1103/PhysRevLett.102.161301},
+   adsurl = {http://adsabs.harvard.edu/abs/2009PhRvL.102p1301H},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2009PhRvD..79h4008H,
+   author = {{Ho{\v r}ava}, P.},
+    title = "{Quantum gravity at a Lifshitz point}",
+  journal = {\prd},
+archivePrefix = "arXiv",
+   eprint = {0901.3775},
+ primaryClass = "hep-th",
+ keywords = {Quantum gravity},
+     year = 2009,
+    month = apr,
+   volume = 79,
+   number = 8,
+      eid = {084008},
+    pages = {084008},
+      doi = {10.1103/PhysRevD.79.084008},
+   adsurl = {http://adsabs.harvard.edu/abs/2009PhRvD..79h4008H},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2011CQGra..28p5001H,
+   author = {{Harko}, T. and {Kov{\'a}cs}, Z. and {Lobo}, F.~S.~N.},
+    title = "{Thin accretion disk signatures of slowly rotating black holes in Ho{\v r}ava gravity}",
+  journal = {Classical and Quantum Gravity},
+archivePrefix = "arXiv",
+   eprint = {1009.1958},
+ primaryClass = "gr-qc",
+     year = 2011,
+    month = aug,
+   volume = 28,
+   number = 16,
+      eid = {165001},
+    pages = {165001},
+      doi = {10.1088/0264-9381/28/16/165001},
+   adsurl = {http://adsabs.harvard.edu/abs/2011CQGra..28p5001H},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2003PhRvD..68j4012J,
+   author = {{Jackiw}, R. and {Pi}, S.-Y.},
+    title = "{Chern-Simons modification of general relativity}",
+  journal = {\prd},
+   eprint = {gr-qc/0308071},
+ keywords = {Fundamental problems and general formalism, Gravity in more than four dimensions Kaluza-Klein theory unified field theories, alternative theories of gravity},
+     year = 2003,
+    month = nov,
+   volume = 68,
+   number = 10,
+      eid = {104012},
+    pages = {104012},
+      doi = {10.1103/PhysRevD.68.104012},
+   adsurl = {http://adsabs.harvard.edu/abs/2003PhRvD..68j4012J},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2010CQGra..27j5010H,
+   author = {{Harko}, T. and {Kov{\'a}cs}, Z. and {Lobo}, F.~S.~N.},
+    title = "{Thin accretion disk signatures in dynamical Chern-Simons-modified gravity}",
+  journal = {Classical and Quantum Gravity},
+archivePrefix = "arXiv",
+   eprint = {0909.1267},
+ primaryClass = "gr-qc",
+     year = 2010,
+    month = may,
+   volume = 27,
+   number = 10,
+      eid = {105010},
+    pages = {105010},
+      doi = {10.1088/0264-9381/27/10/105010},
+   adsurl = {http://adsabs.harvard.edu/abs/2010CQGra..27j5010H},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{TheGravitationalUniverse,
+   author = {{Seoane}, P.~A. and {Aoudia}, S. and 
+	{Audley}, H. and {Auger}, G. and {Babak}, S. and {Baker}, J. and 
+	{Barausse}, E. and {Barke}, S. and {Bassan}, M. and {Beckmann}, V. and 
+	{Benacquista}, M. and {Bender}, P.~L. and {Berti}, E. and {Bin{\'e}truy}, P. and 
+	{Bogenstahl}, J. and {Bonvin}, C. and {Bortoluzzi}, D. and {Brause}, N.~C. and 
+	{Brossard}, J. and {Buchman}, S. and {Bykov}, I. and {Camp}, J. and 
+	{Caprini}, C. and {Cavalleri}, A. and {Cerdonio}, M. and {Ciani}, G. and 
+	{Colpi}, M. and {Congedo}, G. and {Conklin}, J. and {Cornish}, N. and 
+	{Danzmann}, K. and {de Vine}, G. and {DeBra}, D. and {Dewi Freitag}, M. and 
+	{Di Fiore}, L. and {Diaz Aguilo}, M. and {Diepholz}, I. and 
+	{Dolesi}, R. and {Dotti}, M. and {Fern{\'a}ndez Barranco}, G. and 
+	{Ferraioli}, L. and {Ferroni}, V. and {Finetti}, N. and {Fitzsimons}, E. and 
+	{Gair}, J. and {Galeazzi}, F. and {Garcia}, A. and {Gerberding}, O. and 
+	{Gesa}, L. and {Giardini}, D. and {Gibert}, F. and {Grimani}, C. and 
+	{Groot}, P. and {Guzman Cervantes}, F. and {Haiman}, Z. and 
+	{Halloin}, H. and {Heinzel}, G. and {Hewitson}, M. and {Hogan}, C. and 
+	{Holz}, D. and {Hornstrup}, A. and {Hoyland}, D. and {Hoyle}, C.~D. and 
+	{Hueller}, M. and {Hughes}, S. and {Jetzer}, P. and {Kalogera}, V. and 
+	{Karnesis}, N. and {Kilic}, M. and {Killow}, C. and {Klipstein}, W. and 
+	{Kochkina}, E. and {Korsakova}, N. and {Krolak}, A. and {Larson}, S. and 
+	{Lieser}, M. and {Littenberg}, T. and {Livas}, J. and {Lloro}, I. and 
+	{Mance}, D. and {Madau}, P. and {Maghami}, P. and {Mahrdt}, C. and 
+	{Marsh}, T. and {Mateos}, I. and {Mayer}, L. and {McClelland}, D. and 
+	{McKenzie}, K. and {McWilliams}, S. and {Merkowitz}, S. and 
+	{Miller}, C. and {Mitryk}, S. and {Moerschell}, J. and {Mohanty}, S. and 
+	{Monsky}, A. and {Mueller}, G. and {M{\"u}ller}, V. and {Nelemans}, G. and 
+	{Nicolodi}, D. and {Nissanke}, S. and {Nofrarias}, M. and {Numata}, K. and 
+	{Ohme}, F. and {Otto}, M. and {Perreur-Lloyd}, M. and {Petiteau}, A. and 
+	{Phinney}, E.~S. and {Plagnol}, E. and {Pollack}, S. and {Porter}, E. and 
+	{Prat}, P. and {Preston}, A. and {Prince}, T. and {Reiche}, J. and 
+	{Richstone}, D. and {Robertson}, D. and {Rossi}, E.~M. and {Rosswog}, S. and 
+	{Rubbo}, L. and {Ruiter}, A. and {Sanjuan}, J. and {Sathyaprakash}, B.~S. and 
+	{Schlamminger}, S. and {Schutz}, B. and {Sch{\"u}tze}, D. and 
+	{Sesana}, A. and {Shaddock}, D. and {Shah}, S. and {Sheard}, B. and 
+	{Sopuerta}, C.~F. and {Spector}, A. and {Spero}, R. and {Stanga}, R. and 
+	{Stebbins}, R. and {Stede}, G. and {Steier}, F. and {Sumner}, T. and 
+	{Sun}, K.-X. and {Sutton}, A. and {Tanaka}, T. and {Tanner}, D. and 
+	{Thorpe}, I. and {Tr{\"o}bs}, M. and {Tinto}, M. and {Tu}, H.-B. and 
+	{Vallisneri}, M. and {Vetrugno}, D. and {Vitale}, S. and {Volonteri}, M. and 
+	{Wand}, V. and {Wang}, Y. and {Wanner}, G. and {Ward}, H. and 
+	{Ware}, B. and {Wass}, P. and {Weber}, W.~J. and {Yu}, Y. and 
+	{Yunes}, N. and {Zweifel}, P.},
+collaboration = {The eLISA Consotium},
+    title = "{The Gravitational Universe}",
+archivePrefix = "arXiv",
+   eprint = {1305.5720},
+ primaryClass = "astro-ph.CO",
+ keywords = {Astrophysics - Cosmology and Extragalactic Astrophysics, General Relativity and Quantum Cosmology},
+     year = 2013,
+    month = may,
+   adsurl = {http://adsabs.harvard.edu/abs/2013arXiv1305.5720C},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@techreport{Acernese2009,
+   author = {Acernese, F. and others},
+   collaboration = {The Virgo Collaboration},
+   title = {Advanced Virgo Baseline Design},
+   type = {Virgo Technical Report},
+   number = {VIR-0027A-09},
+   url={http://tds.ego-gw.it/itf/tds/file.php?callFile=VIR-0027A-09.pdf},
+   year = {2009}
+}
+
+@ARTICLE{2010CQGra..27h4006H,
+   author = {{Harry}, G.~M.},
+collaboration = {The LIGO Scientific Collabortation},
+    title = "{Advanced LIGO: the next generation of gravitational wave detectors}",
+  journal = {Classical and Quantum Gravity},
+     year = 2010,
+    month = apr,
+   volume = 27,
+   number = 8,
+      eid = {084006},
+    pages = {084006},
+      doi = {10.1088/0264-9381/27/8/084006},
+   adsurl = {http://adsabs.harvard.edu/abs/2010CQGra..27h4006H},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1996MNRAS.279..837I,
+   author = {{Iwasawa}, K. and {Fabian}, A.~C. and {Mushotzky}, R.~F. and 
+	{Brandt}, W.~N. and {Awaki}, H. and {Kunieda}, H.},
+    title = "{The broad iron K emission line in the Seyfert 2 galaxy IRAS 18325-5926}",
+  journal = {Monthly Notices of the RAS},
+ keywords = {ACCRETION, ACCRETION DISCS, GALAXIES: ACTIVE, GALAXIES: INDIVIDUAL: IRAS 18325-5926, GALAXIES: SEYFERT, X-RAYS: GALAXIES},
+     year = 1996,
+    month = apr,
+   volume = 279,
+    pages = {837-846},
+   adsurl = {http://adsabs.harvard.edu/abs/1996MNRAS.279..837I},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1974ApJ...191..499P,
+   author = {{Page}, D.~N. and {Thorne}, K.~S.},
+    title = "{Disk-Accretion onto a Black Hole. Time-Averaged Structure of Accretion Disk}",
+  journal = {\apj},
+     year = 1974,
+    month = jul,
+   volume = 191,
+    pages = {499-506},
+      doi = {10.1086/152990},
+   adsurl = {http://adsabs.harvard.edu/abs/1974ApJ...191..499P},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1973A&A....24..337S,
+   author = {{Shakura}, N.~I. and {Sunyaev}, R.~A.},
+    title = "{Black holes in binary systems. Observational appearance.}",
+  journal = {Astronomy and Astrophysics},
+     year = 1973,
+   volume = 24,
+    pages = {337-355},
+   adsurl = {http://adsabs.harvard.edu/abs/1973A%26A....24..337S},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1975ApJ...202..788C,
+   author = {{Cunningham}, C.~T.},
+    title = "{The effects of redshifts and focusing on the spectrum of an accretion disk around a Kerr black hole}",
+  journal = {\apj},
+ keywords = {Black Holes (Astronomy), Red Shift, Stellar Gravitation, X Ray Sources, X Ray Spectra, Angular Momentum, Astronomical Models, Doppler Effect, Mathematical Models, Relativistic Theory, Transfer Functions},
+     year = 1975,
+    month = dec,
+   volume = 202,
+    pages = {788-802},
+      doi = {10.1086/154033},
+   adsurl = {http://adsabs.harvard.edu/abs/1975ApJ...202..788C},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2011PhRvD..83j4027V,
+   author = {{Vigeland}, S. and {Yunes}, N. and {Stein}, L.~C.},
+    title = "{Bumpy black holes in alternative theories of gravity}",
+  journal = {\prd},
+archivePrefix = "arXiv",
+   eprint = {1102.3706},
+ primaryClass = "gr-qc",
+ keywords = {Gravitational waves: theory, Modified theories of gravity, Physics of black holes},
+     year = 2011,
+    month = may,
+   volume = 83,
+   number = 10,
+      eid = {104027},
+    pages = {104027},
+      doi = {10.1103/PhysRevD.83.104027},
+   adsurl = {http://adsabs.harvard.edu/abs/2011PhRvD..83j4027V},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2011PhRvD..84f4016G,
+   author = {{Gair}, J. and {Yunes}, N.},
+    title = "{Approximate waveforms for extreme-mass-ratio inspirals in modified gravity spacetimes}",
+  journal = {\prd},
+archivePrefix = "arXiv",
+   eprint = {1106.6313},
+ primaryClass = "gr-qc",
+ keywords = {Gravitational waves: theory, Modified theories of gravity, Approximation methods, equations of motion, Post-Newtonian approximation, perturbation theory, related approximations},
+     year = 2011,
+    month = sep,
+   volume = 84,
+   number = 6,
+      eid = {064016},
+    pages = {064016},
+      doi = {10.1103/PhysRevD.84.064016},
+   adsurl = {http://adsabs.harvard.edu/abs/2011PhRvD..84f4016G},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1979GReGr..10...79B,
+   author = {{Benenti}, S. and {Francaviglia}, M.},
+    title = "{Remarks on certain separability structures and their applications to general relativity}",
+  journal = {General Relativity and Gravitation},
+     year = 1979,
+    month = jan,
+   volume = 10,
+    pages = {79-92},
+      doi = {10.1007/BF00757025},
+   adsurl = {http://adsabs.harvard.edu/abs/1979GReGr..10...79B},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@article{PhysRev.174.1559,
+  title = {Global Structure of the Kerr Family of Gravitational Fields},
+  author = {Carter, Brandon},
+  journal = {Phys. Rev.},
+  volume = {174},
+  issue = {5},
+  pages = {1559--1571},
+  numpages = {0},
+  year = {1968},
+  month = {Oct},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRev.174.1559},
+  url = {http://link.aps.org/doi/10.1103/PhysRev.174.1559}
+}
+
+@ARTICLE{2014arXiv1407.2350S,
+   author = {{Stein}, L.~C.},
+    title = "{Rapidly rotating black holes in dynamical Chern-Simons gravity: decoupling limit solutions and breakdown}",
+  journal = {ArXiv e-prints},
+archivePrefix = "arXiv",
+   eprint = {1407.2350},
+ primaryClass = "gr-qc",
+ keywords = {General Relativity and Quantum Cosmology, Astrophysics - High Energy Astrophysical Phenomena, High Energy Physics - Phenomenology, High Energy Physics - Theory},
+     year = 2014,
+    month = jul,
+   adsurl = {http://adsabs.harvard.edu/abs/2014arXiv1407.2350S},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2012ApJ...745....1P,
+   author = {{Psaltis}, D. and {Johannsen}, T.},
+    title = "{A Ray-tracing Algorithm for Spinning Compact Object Spacetimes with Arbitrary Quadrupole Moments. I. Quasi-Kerr Black Holes}",
+  journal = {\apj},
+archivePrefix = "arXiv",
+   eprint = {1011.4078},
+ primaryClass = "astro-ph.HE",
+ keywords = {black hole physics, radiative transfer, relativistic processes},
+     year = 2012,
+    month = jan,
+   volume = 745,
+      eid = {1},
+    pages = {1},
+      doi = {10.1088/0004-637X/745/1/1},
+   adsurl = {http://adsabs.harvard.edu/abs/2012ApJ...745....1P},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@article{PhysRevLett.11.237,
+  title = {Gravitational Field of a Spinning Mass as an Example of Algebraically Special Metrics},
+  author = {Kerr, Roy P.},
+  journal = {Phys. Rev. Lett.},
+  volume = {11},
+  issue = {5},
+  pages = {237--238},
+  numpages = {0},
+  year = {1963},
+  month = {Sep},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.11.237},
+  url = {http://link.aps.org/doi/10.1103/PhysRevLett.11.237}
+}
+
+@ARTICLE{2011PhRvD..84l4033A,
+   author = {{Ali-Ha{\"i}moud}, Y. and {Chen}, Y.},
+    title = "{Slowly rotating stars and black holes in dynamical Chern-Simons gravity}",
+  journal = {\prd},
+archivePrefix = "arXiv",
+   eprint = {1110.5329},
+ primaryClass = "astro-ph.HE",
+ keywords = {Modified theories of gravity, Experimental tests of gravitational theories},
+     year = 2011,
+    month = dec,
+   volume = 84,
+   number = 12,
+      eid = {124033},
+    pages = {124033},
+      doi = {10.1103/PhysRevD.84.124033},
+   adsurl = {http://adsabs.harvard.edu/abs/2011PhRvD..84l4033A},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2012PhRvD..86d4010C,
+   author = {{Canizares}, P. and {Gair}, J.~R. and {Sopuerta}, C.~F.},
+    title = "{Testing Chern-Simons modified gravity with gravitational-wave detections of extreme-mass-ratio binaries}",
+  journal = {\prd},
+archivePrefix = "arXiv",
+   eprint = {1205.1253},
+ primaryClass = "gr-qc",
+ keywords = {Wave generation and sources, Gravitational waves: theory, Modified theories of gravity, Relativity and gravitation},
+     year = 2012,
+    month = aug,
+   volume = 86,
+   number = 4,
+      eid = {044010},
+    pages = {044010},
+      doi = {10.1103/PhysRevD.86.044010},
+   adsurl = {http://adsabs.harvard.edu/abs/2012PhRvD..86d4010C},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2011IJMPD..20.1079I,
+   author = {{Iorio}, L. and {Ruggiero}, M.~L.},
+    title = "{HO{\v R}AVA-LIFSHITZ Gravity:. Tighter Constraints for the Kehagias-Sfetsos Solution from New Solar System Data}",
+  journal = {International Journal of Modern Physics D},
+archivePrefix = "arXiv",
+   eprint = {1012.2822},
+ primaryClass = "gr-qc",
+ keywords = {Experimental tests of gravitational theories, modified theories of gravity, celestial mechanics, ephemerides, almanacs and calendars, orbit determination and improvement, Experimental tests of gravitational theories, Modified theories of gravity, Celestial mechanics, Ephemerides almanacs and calendars, Orbit determination and improvement},
+     year = 2011,
+   volume = 20,
+    pages = {1079-1093},
+      doi = {10.1142/S0218271811019281},
+   adsurl = {http://adsabs.harvard.edu/abs/2011IJMPD..20.1079I},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2011RSPSA.467.1390H,
+   author = {{Harko}, T. and {Kovacs}, Z. and {Lobo}, F.~S.~N.},
+    title = "{Solar System tests of Horava-Lifshitz gravity}",
+  journal = {Royal Society of London Proceedings Series A},
+archivePrefix = "arXiv",
+   eprint = {0908.2874},
+ primaryClass = "gr-qc",
+     year = 2011,
+    month = may,
+   volume = 467,
+    pages = {1390-1407},
+      doi = {10.1098/rspa.2010.0477},
+   adsurl = {http://adsabs.harvard.edu/abs/2011RSPSA.467.1390H},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2011GReGr..43.1401L,
+   author = {{Liu}, M. and {Lu}, J. and {Yu}, B. and {Lu}, J.},
+    title = "{Solar system constraints on asymptotically flat IR modified Ho{\v r}ava gravity through light deflection}",
+  journal = {General Relativity and Gravitation},
+archivePrefix = "arXiv",
+   eprint = {1010.6149},
+ primaryClass = "gr-qc",
+ keywords = {Ho{\v r}ava-Lifshitz gravity, Black hole, Deflection of light, Astronomical observation},
+     year = 2011,
+    month = may,
+   volume = 43,
+    pages = {1401-1415},
+      doi = {10.1007/s10714-010-1123-0},
+   adsurl = {http://adsabs.harvard.edu/abs/2011GReGr..43.1401L},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1920RSPTA.220..291D,
+   author = {{Dyson}, F.~W. and {Eddington}, A.~S. and {Davidson}, C.},
+    title = "{A Determination of the Deflection of Light by the Sun's Gravitational Field, from Observations Made at the Total Eclipse of May 29, 1919}",
+  journal = {Royal Society of London Philosophical Transactions Series A},
+     year = 1920,
+   volume = 220,
+    pages = {291-333},
+      doi = {10.1098/rsta.1920.0009},
+   adsurl = {http://adsabs.harvard.edu/abs/1920RSPTA.220..291D},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1975ApJ...195L..51H,
+   author = {{Hulse}, R.~A. and {Taylor}, J.~H.},
+    title = "{Discovery of a pulsar in a binary system}",
+  journal = {Astrophysical Journal, Letters},
+ keywords = {Binary Stars, Orbital Elements, Pulsars, Relativistic Effects, Black Holes (Astronomy), Companion Stars, Eccentric Orbits, Mass Ratios, Neutron Stars, Radial Velocity, Velocity Distribution},
+     year = 1975,
+    month = jan,
+   volume = 195,
+    pages = {L51-L53},
+      doi = {10.1086/181708},
+   adsurl = {http://adsabs.harvard.edu/abs/1975ApJ...195L..51H},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1915SPAW.......831E,
+   author = {{Einstein}, A.},
+    title = "{Erkl{\"a}rung der Perihelbewegung des Merkur aus der allgemeinen Relativit{\"a}tstheorie}",
+  journal = {Sitzungsberichte der K{\"o}niglich Preu{\ss}ischen Akademie der Wissenschaften (Berlin), Seite 831-839.},
+     year = 1915,
+    pages = {831-839},
+   adsurl = {http://adsabs.harvard.edu/abs/1915SPAW.......831E},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@online{nobpr1993,
+  cited     = {21 October 1997},
+  format    = {institutional homepage},
+  publisher = {Nobelprize.org},
+  title     = {The Nobel Prize in Physics 1993},
+  url       = {http://www.nobelprize.org/nobel_prizes/physics/laureates/1993/index.html}
+}
+
+@ARTICLE{2007PhRvD..75d2003B,
+   author = {{Barack}, L. and {Cutler}, C.},
+    title = "{Using LISA extreme-mass-ratio inspiral sources to test off-Kerr deviations in the geometry of massive black holes}",
+  journal = {\prd},
+   eprint = {gr-qc/0612029},
+ keywords = {Gravitational wave detectors and experiments, Post-Newtonian approximation, perturbation theory, related approximations, Wave generation and sources, Experimental tests of gravitational theories},
+     year = 2007,
+    month = feb,
+   volume = 75,
+   number = 4,
+      eid = {042003},
+    pages = {042003},
+      doi = {10.1103/PhysRevD.75.042003},
+   adsurl = {http://adsabs.harvard.edu/abs/2007PhRvD..75d2003B},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1997PhRvD..56.1845R,
+   author = {{Ryan}, F.~D.},
+    title = "{Accuracy of estimating the multipole moments of a massive body from the gravitational waves of a binary inspiral}",
+  journal = {\prd},
+ keywords = {Post-Newtonian approximation, perturbation theory, related approximations, Wave generation and sources, Gravitational wave detectors and experiments, Gravitational radiation detectors, mass spectrometers, and other instrumentation and techniques},
+     year = 1997,
+    month = aug,
+   volume = 56,
+    pages = {1845-1855},
+      doi = {10.1103/PhysRevD.56.1845},
+   adsurl = {http://adsabs.harvard.edu/abs/1997PhRvD..56.1845R},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2014PhRvD..89h2001A,
+   author = {{Agathos}, M. and {Del Pozzo}, W. and {Li}, T.~G.~F. and {Van Den Broeck}, C. and 
+	{Veitch}, J. and {Vitale}, S.},
+    title = "{TIGER: A data analysis pipeline for testing the strong-field dynamics of general relativity with gravitational wave signals from coalescing compact binaries}",
+  journal = {\prd},
+archivePrefix = "arXiv",
+   eprint = {1311.0420},
+ primaryClass = "gr-qc",
+ keywords = {Experimental tests of gravitational theories, Gravitational waves: theory, Applications of Monte Carlo methods},
+     year = 2014,
+    month = apr,
+   volume = 89,
+   number = 8,
+      eid = {082001},
+    pages = {082001},
+      doi = {10.1103/PhysRevD.89.082001},
+   adsurl = {http://adsabs.harvard.edu/abs/2014PhRvD..89h2001A},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@article{lrr-2006-3,
+  title    = {The Confrontation between General Relativity and Experiment},
+  author   = {Clifford M. Will},
+  journal  = {Living Reviews in Relativity},
+  year     = {2006},
+  number   = {3},
+  volume   = {9},
+  keywords = {tests of relativistic gravity, theories of gravity, post-Newtonian limit, gravitational radiation},
+  doi      = {10.12942/lrr-2006-3},
+  url      = {http://www.livingreviews.org/lrr-2006-3}
+}
+
+@ARTICLE{2011CQGra..28k4009M,
+   author = {{McClintock}, J.~E. and {Narayan}, R. and {Davis}, S.~W. and 
+	{Gou}, L. and {Kulkarni}, A. and {Orosz}, J.~A. and {Penna}, R.~F. and 
+	{Remillard}, R.~A. and {Steiner}, J.~F.},
+    title = "{Measuring the spins of accreting black holes}",
+  journal = {Classical and Quantum Gravity},
+archivePrefix = "arXiv",
+   eprint = {1101.0811},
+ primaryClass = "astro-ph.HE",
+     year = 2011,
+    month = jun,
+   volume = 28,
+   number = 11,
+      eid = {114009},
+    pages = {114009},
+      doi = {10.1088/0264-9381/28/11/114009},
+   adsurl = {http://adsabs.harvard.edu/abs/2011CQGra..28k4009M},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@book{Chandrasekhar:579245,
+      author        = "Chandrasekhar, S",
+      title         = "{The mathematical theory of black holes}",
+      publisher     = "Oxford Univ. Press",
+      address       = "Oxford",
+      series        = "Oxford classic texts in the physical sciences",
+      year          = "2002",
+      Pages         = {66-73}
+}
+
+@ARTICLE{1972ApJ...178..347B,
+   author = {{Bardeen}, J.~M. and {Press}, W.~H. and {Teukolsky}, S.~A.},
+    title = "{Rotating Black Holes: Locally Nonrotating Frames, Energy Extraction, and Scalar Synchrotron Radiation}",
+  journal = {\apj},
+     year = 1972,
+    month = dec,
+   volume = 178,
+    pages = {347-370},
+      doi = {10.1086/151796},
+   adsurl = {http://adsabs.harvard.edu/abs/1972ApJ...178..347B},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@article{PhysRev.124.925,
+  title = {Mach's Principle and a Relativistic Theory of Gravitation},
+  author = {Brans, C. and Dicke, R. H.},
+  journal = {Phys. Rev.},
+  volume = {124},
+  issue = {3},
+  pages = {925--935},
+  numpages = {0},
+  year = {1961},
+  month = {Nov},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRev.124.925},
+  url = {http://link.aps.org/doi/10.1103/PhysRev.124.925}
+}
+
+@ARTICLE{1995Natur.375..659T,
+   author = {{Tanaka}, Y. and {Nandra}, K. and {Fabian}, A.~C. and {Inoue}, H. and 
+	{Otani}, C. and {Dotani}, T. and {Hayashida}, K. and {Iwasawa}, K. and 
+	{Kii}, T. and {Kunieda}, H. and {Makino}, F. and {Matsuoka}, M.
+	},
+    title = "{Gravitationally redshifted emission implying an accretion disk and massive black hole in the active galaxy MCG-6-30-15}",
+  journal = {\nat},
+     year = 1995,
+    month = jun,
+   volume = 375,
+    pages = {659-661},
+      doi = {10.1038/375659a0},
+   adsurl = {http://adsabs.harvard.edu/abs/1995Natur.375..659T},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1994MNRAS.269L..55Z,
+   author = {{Zdziarski}, A.~A. and {Fabian}, A.~C. and {Nandra}, K. and 
+	{Celotti}, A. and {Rees}, M.~J. and {Done}, C. and {Coppi}, P.~S. and 
+	{Madejski}, G.~M.},
+    title = "{Physical Processes in the X-Ray / Gamma-Ray Source of IC4329A}",
+  journal = {Monthly Notices of the RAS},
+     year = 1994,
+    month = aug,
+   volume = 269,
+    pages = {L55},
+   adsurl = {http://adsabs.harvard.edu/abs/1994MNRAS.269L..55Z},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@BOOK{MTW,
+ address= {San Fansisco},
+   author = {{Misner}, C.~W. and {Thorne}, K.~S. and {Wheeler}, J.~A.},
+    title = "{Gravitation}",
+ publisher = {W.H.~Freeman and Co.},
+     year = 1973,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1991MNRAS.250..629K,
+   author = {{Kojima}, Y.},
+    title = "{The effects of black hole rotation on line profiles from accretion discs}",
+  journal = {Monthly Notices of the RAS},
+ keywords = {Accretion Disks, Active Galactic Nuclei, Black Holes (Astronomy), Line Spectra, Stellar Rotation, Cold Gas, Computational Astrophysics, Fluorescence, Interstellar Gas},
+     year = 1991,
+    month = jun,
+   volume = 250,
+    pages = {629-632},
+   adsurl = {http://adsabs.harvard.edu/abs/1991MNRAS.250..629K},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1991ApJ...376...90L,
+   author = {{Laor}, A.},
+    title = "{Line profiles from a disk around a rotating black hole}",
+  journal = {\apj},
+ keywords = {Accretion Disks, Active Galactic Nuclei, Black Holes (Astronomy), Line Spectra, Stellar Rotation, X Ray Spectra, Iron, K Lines, Milky Way Galaxy, Spectrum Analysis},
+     year = 1991,
+    month = jul,
+   volume = 376,
+    pages = {90-94},
+      doi = {10.1086/170257},
+   adsurl = {http://adsabs.harvard.edu/abs/1991ApJ...376...90L},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2011MNRAS.416..941S,
+   author = {{Steiner}, J.~F. and {Reis}, R.~C. and {McClintock}, J.~E. and 
+	{Narayan}, R. and {Remillard}, R.~A. and {Orosz}, J.~A. and 
+	{Gou}, L. and {Fabian}, A.~C. and {Torres}, M.~A.~P.},
+    title = "{The spin of the black hole microquasar XTE J1550-564 via the continuum-fitting and Fe-line methods}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {1010.1013},
+ primaryClass = "astro-ph.HE",
+ keywords = {accretion, accretion discs, black hole physics, stars: individual: XTE J1550-564, X-rays: binaries},
+     year = 2011,
+    month = sep,
+   volume = 416,
+    pages = {941-958},
+      doi = {10.1111/j.1365-2966.2011.19089.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2011MNRAS.416..941S},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
