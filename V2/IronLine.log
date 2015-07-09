@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2013.2.25)  13 OCT 2014 15:07
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2013.2.25)  15 JUN 2015 09:32
 entering extended mode
  %&-line parsing enabled.
 **IronLine
@@ -438,7 +438,7 @@ e document class option showkeys.
 
 (./intro.tex [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
 (./metrics.tex [2] [3]) (./disks.tex [4]
-<KerrLines.pdf, id=283, 687.56876pt x 437.37802pt>
+<KerrLines.pdf, id=282, 687.56876pt x 437.37802pt>
 File: KerrLines.pdf Graphic file (type pdf)
  <use KerrLines.pdf> [5]
 Overfull \hbox (1.32222pt too wide) detected at line 76
@@ -453,87 +453,66 @@ LaTeX Font Warning: Command \small invalid in math mode on input line 82.
 
 LaTeX Font Warning: Command \small invalid in math mode on input line 82.
 
-
-Underfull \hbox (badness 5667) in paragraph at lines 81--83
-\OT1/cmr/m/n/10 hole the nu-mer-a-tor of Eq. []32[] is sim-ply given
- []
-
-
-Underfull \hbox (badness 5431) in paragraph at lines 81--83
-\OT1/cmr/m/n/10 by $[]$. Us-ing the or-bital four-
- []
-
 [6pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \endgroup \set@typeset@protect 
-l.85 \begin{equation}
-                      \alpha = -\frac{r p^{\phi}}{p^{t}} \Big|_{r\rightarrow...
- <./KerrLines.pdf>] <KerrFlux.pdf, id=354, 331.2375pt x 185.69376pt>
+l.83 \begin{equation}
+                     \label{eq:redshiftfac} g=  \frac{1}{u^{t}(1-\Omega \lam...
+ <./KerrLines.pdf>] <KerrFlux.pdf, id=352, 331.2375pt x 185.69376pt>
 File: KerrFlux.pdf Graphic file (type pdf)
 
-<use KerrFlux.pdf> <KerrTherm.pdf, id=362, 670.505pt x 341.01802pt>
+<use KerrFlux.pdf> <KerrTherm.pdf, id=360, 670.505pt x 341.01802pt>
 File: KerrTherm.pdf Graphic file (type pdf)
 
 <use KerrTherm.pdf> [7pdfTeX warning (ext4): destination with the same identifi
 er (name{figure.2}) has been already used, duplicate ignored
 <to be read again> 
                    \endgroup \set@typeset@protect 
-l.122 
-       <./KerrFlux.pdf>]
-<LightBendingDisk.png, id=421, 1633.10126pt x 894.34125pt>
+l.118 ...c{E_{0}}{gT}}-1\right)}\; .\end{equation}
+                                                   <./KerrFlux.pdf>]
+<LightBendingDisk.png, id=418, 1633.10126pt x 894.34125pt>
 File: LightBendingDisk.png Graphic file (type png)
 
 <use LightBendingDisk.png> [8pdfTeX warning (ext4): destination with the same i
 dentifier (name{figure.3}) has been already used, duplicate ignored
 <to be read again> 
                    \endgroup \set@typeset@protect 
-l.138 
-       <./KerrTherm.pdf>]) (./results.tex
-<FishMCMC.png, id=464, 2088.80376pt x 990.70125pt>
-File: FishMCMC.png Graphic file (type png)
- <use FishMCMC.png> [9pdfTeX warning (ext4): destination with the same identifi
-er (name{figure.4}) has been already used, duplicate ignored
+l.136 
+       <./KerrTherm.pdf>]) (./results.tex [9pdfTeX warning (ext4): destination 
+with the same identifier (name{figure.4}) has been already used, duplicate igno
+red
 <to be read again> 
                    \endgroup \set@typeset@protect 
-l.16 
-      <./LightBendingDisk.png (PNG copy)>]
+l.5 \begin{equation}
+                     P(s)=\int\textrm{d}\vec{\theta}\;P(s|\vec{\theta})P(\ve...
+ <./LightBendingDisk.png (PNG copy)>]
+<FishMCMC.png, id=471, 2088.80376pt x 990.70125pt>
+File: FishMCMC.png Graphic file (type png)
+ <use FishMCMC.png>
 Overfull \hbox (9.22124pt too wide) in alignment at lines 26--28
  [][][] []
  []
 
-[10pdfTeX warning (ext4): destination with the same identifier (name{figure.5})
- has been already used, duplicate ignored
-<to be read again> 
-                   \endgroup \set@typeset@protect 
-l.32 
-      <./FishMCMC.png (PNG copy)>]
-<KerrFisherMatrixErrors2.pdf, id=493, 1111.15125pt x 794.94592pt>
+[10] <KerrFisherMatrixErrors2.pdf, id=492, 1233.40805pt x 880.89098pt>
 File: KerrFisherMatrixErrors2.pdf Graphic file (type pdf)
 
-<use KerrFisherMatrixErrors2.pdf>
-Overfull \hbox (3.98218pt too wide) in paragraph at lines 57--66
- []$ 
- []
-
-[11pdfTeX warning (ext4): destination with the same identifier (name{table.1}) 
-has been already used, duplicate ignored
+<use KerrFisherMatrixErrors2.pdf> [11pdfTeX warning (ext4): destination with th
+e same identifier (name{figure.5}) has been already used, duplicate ignored
 <to be read again> 
                    \endgroup \set@typeset@protect 
-l.74 
-     ]
+l.56 
+      <./FishMCMC.png (PNG copy)>]
 
 pdfTeX warning: pdflatex (file ./CS2IronLines.pdf): PDF inclusion: found PDF ve
 rsion <1.5>, but at most version <1.4> allowed
-<CS2IronLines.pdf, id=510, 649.42625pt x 214.8025pt>
+<CS2IronLines.pdf, id=506, 649.42625pt x 214.8025pt>
 File: CS2IronLines.pdf Graphic file (type pdf)
  <use CS2IronLines.pdf>
+Overfull \hbox (3.98218pt too wide) in paragraph at lines 66--75
+ []$ 
+ []
 
-pdfTeX warning: pdflatex (file ./KSIronLines.pdf): PDF inclusion: found PDF ver
-sion <1.5>, but at most version <1.4> allowed
-<KSIronLines.pdf, id=515, 347.2975pt x 214.8025pt>
-File: KSIronLines.pdf Graphic file (type pdf)
- <use KSIronLines.pdf>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -541,29 +520,46 @@ LaTeX Warning: `h' float specifier changed to `ht'.
  has been already used, duplicate ignored
 <to be read again> 
                    \endgroup \set@typeset@protect 
-l.100 
-       <./KerrFisherMatrixErrors2.pdf>]
+l.87 
+     pdfTeX warning (ext4): destination with the same identifier (name{table.1}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \endgroup \set@typeset@protect 
+l.87 
+      <./KerrFisherMatrixErrors2.pdf
+
+pdfTeX warning: pdflatex (file ./KerrFisherMatrixErrors2.pdf): PDF inclusion: P
+age Group detected which pdfTeX can't handle. Ignoring it.
+>]
+
+pdfTeX warning: pdflatex (file ./KSIronLines.pdf): PDF inclusion: found PDF ver
+sion <1.5>, but at most version <1.4> allowed
+<KSIronLines.pdf, id=526, 347.2975pt x 214.8025pt>
+File: KSIronLines.pdf Graphic file (type pdf)
+ <use KSIronLines.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 
 pdfTeX warning: pdflatex (file ./KSFisherPlot.pdf): PDF inclusion: found PDF ve
 rsion <1.5>, but at most version <1.4> allowed
-<KSFisherPlot.pdf, id=544, 900.36375pt x 858.20625pt>
+<KSFisherPlot.pdf, id=533, 900.36375pt x 858.20625pt>
 File: KSFisherPlot.pdf Graphic file (type pdf)
  <use KSFisherPlot.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 [13pdfTeX warning (ext4): destination with the same identifier (name{figure.7})
  has been already used, duplicate ignored
 <to be read again> 
                    \endgroup \set@typeset@protect 
-l.132 
+l.131 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 8}) has been already used, duplicate ignored
 <to be read again> 
                    \endgroup \set@typeset@protect 
-l.132 
-      pdfTeX warning (ext4): destination with the same identifier (name{table.2
-}) has been already used, duplicate ignored
-<to be read again> 
-                   \endgroup \set@typeset@protect 
-l.132 
+l.131 
        <./CS2IronLines.pdf
 
 pdfTeX warning: pdflatex (file ./CS2IronLines.pdf): PDF inclusion: Page Group d
@@ -572,61 +568,62 @@ etected which pdfTeX can't handle. Ignoring it.
 
 pdfTeX warning: pdflatex (file ./KSIronLines.pdf): PDF inclusion: Page Group de
 tected which pdfTeX can't handle. Ignoring it.
->]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 151.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `subscript' on input line 151.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 151.
-
-
-
-pdfTeX warning: pdflatex (file ./B2IronLines.pdf): PDF inclusion: found PDF ver
-sion <1.5>, but at most version <1.4> allowed
-<B2IronLines.pdf, id=632, 719.68875pt x 431.6125pt>
-File: B2IronLines.pdf Graphic file (type pdf)
- <use B2IronLines.pdf>
-[14pdfTeX warning (ext4): destination with the same identifier (name{figure.9})
- has been already used, duplicate ignored
+>] [14pdfTeX warning (ext4): destination with the same identifier (name{figure.
+9}) has been already used, duplicate ignored
 <to be read again> 
                    \endgroup \set@typeset@protect 
-l.161 
+l.135 
        <./KSFisherPlot.pdf
 
 pdfTeX warning: pdflatex (file ./KSFisherPlot.pdf): PDF inclusion: Page Group d
 etected which pdfTeX can't handle. Ignoring it.
 >]
 
+LaTeX Warning: A float is stuck (cannot be placed) on input line 135.
+
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 135.
+
+
+Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 152.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `subscript' on input line 152.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 152.
+
+
+
+pdfTeX warning: pdflatex (file ./B2IronLines.pdf): PDF inclusion: found PDF ver
+sion <1.5>, but at most version <1.4> allowed
+<B2IronLines.pdf, id=646, 719.68875pt x 431.6125pt>
+File: B2IronLines.pdf Graphic file (type pdf)
+ <use B2IronLines.pdf>
+
 pdfTeX warning: pdflatex (file ./fig_summary.pdf): PDF inclusion: found PDF ver
 sion <1.5>, but at most version <1.4> allowed
-<fig_summary.pdf, id=662, 641.39626pt x 347.2975pt>
+<fig_summary.pdf, id=651, 641.39626pt x 347.2975pt>
 File: fig_summary.pdf Graphic file (type pdf)
  <use fig_summary.pdf>)
-[15pdfTeX warning (ext4): destination with the same identifier (name{figure.10}
-) has been already used, duplicate ignored
+[15pdfTeX warning (ext4): destination with the same identifier (name{table.2}) 
+has been already used, duplicate ignored
 <to be read again> 
                    \endgroup \set@typeset@protect 
-l.71 
+l.75 
      pdfTeX warning (ext4): destination with the same identifier (name{table.3}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \endgroup \set@typeset@protect 
-l.71 
-      <./B2IronLines.pdf
-
-pdfTeX warning: pdflatex (file ./B2IronLines.pdf): PDF inclusion: Page Group de
-tected which pdfTeX can't handle. Ignoring it.
->] [16pdfTeX warning (ext4): destination with the same identifier (name{table.4
-}) has been already used, duplicate ignored
+l.75 
+     ] [16pdfTeX warning (ext4): destination with the same identifier (name{fig
+ure.10}) has been already used, duplicate ignored
 <to be read again> 
                    \endgroup \set@typeset@protect 
 l.75 
@@ -635,7 +632,11 @@ l.75
 <to be read again> 
                    \endgroup \set@typeset@protect 
 l.75 
-      <./fig_summary.pdf
+      <./B2IronLines.pdf
+
+pdfTeX warning: pdflatex (file ./B2IronLines.pdf): PDF inclusion: Page Group de
+tected which pdfTeX can't handle. Ignoring it.
+> <./fig_summary.pdf
 
 pdfTeX warning: pdflatex (file ./fig_summary.pdf): PDF inclusion: Page Group de
 tected which pdfTeX can't handle. Ignoring it.
@@ -689,13 +690,13 @@ allFile =
 
 ) [20] (./IronLine.aux) ) 
 Here is how much of TeX's memory you used:
- 6779 strings out of 256216
- 91032 string characters out of 1917072
- 202725 words of memory out of 1500000
+ 6778 strings out of 256216
+ 91027 string characters out of 1917072
+ 202403 words of memory out of 1500000
  9727 multiletter control sequences out of 10000+200000
  18723 words of font info for 76 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 33i,14n,35p,2023b,405s stack positions out of 5000i,500n,6000p,200000b,15000s
+ 33i,14n,35p,2022b,377s stack positions out of 5000i,500n,6000p,200000b,15000s
 </usr/share/texmf/fonts/type1/bluesky/cm/cmbx10.pfb></
 usr/share/texmf/fonts/type1/bluesky/cm/cmbx12.pfb></usr/share/texmf/fonts/type1
 /bluesky/cm/cmbx9.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmex10.pfb></usr
@@ -713,9 +714,9 @@ esky/cm/cmsy9.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmti10.pfb></usr/sha
 re/texmf/fonts/type1/bluesky/cm/cmti9.pfb></usr/share/texmf/fonts/type1/bluesky
 /cm/cmtt9.pfb></usr/share/texmf/fonts/type1/bluesky/ams/msam10.pfb></usr/share/
 texmf/fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on IronLine.pdf (20 pages, 1993545 bytes).
+Output written on IronLine.pdf (20 pages, 1930826 bytes).
 PDF statistics:
- 927 PDF objects out of 1000 (max. 8388607)
- 179 named destinations out of 1000 (max. 131072)
+ 917 PDF objects out of 1000 (max. 8388607)
+ 178 named destinations out of 1000 (max. 131072)
  288 words of extra memory for PDF output out of 10000 (max. 10000000)
 
